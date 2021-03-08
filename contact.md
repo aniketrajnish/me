@@ -26,4 +26,5 @@ is_contact: true
 3. [YouTube](https://www.youtube.com/c/makra2077/featured)
 4. [Itch](https://makra.itch.io/)
 5. [Play Store](https://play.google.com/store/apps/dev?id=7545721879938982945)
-6. [Only Fans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+6. [Instagram](https://www.instagram.com/aniketrajnis/)
+7. [Only Fans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
