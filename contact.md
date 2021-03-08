@@ -19,8 +19,10 @@ is_contact: true
 > 
 ---
 
-## Social
+## Links
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://www.facebook.com/makra2077/)
+2. [LinkedIn](https://www.linkedin.com/in/makrawtf/)
+3. [YouTube](https://www.youtube.com/c/makra2077/featured)
+4. [Itch](https://makra.itch.io/)
+5. [Play Store](https://play.google.com/store/apps/dev?id=7545721879938982945)
