@@ -3,19 +3,17 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [aniket.r@iitgn.ac.in](mailto:aniket.r@iitgn.ac.in)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+91-7765961770](tel:+91-7765961770)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> C111, Chimair
 >
-> London
->
-> United Kingdom
+> IITGn, Gandhinagar
 
 ---
 
