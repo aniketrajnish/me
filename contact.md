@@ -13,8 +13,9 @@ is_contact: true
 
 > C111, Chimair
 >
-> IITGn, Gandhinagar
-
+> IITGn, 
+>
+> Gandhinagar
 ---
 
 ## Social
