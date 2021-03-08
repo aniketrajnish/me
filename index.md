@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me3.jpg">
 
-I'm a sophomore at IITGn. I make games that will make you addicted.
+I'm a sophomore and the secertary of game developement at IIT Gandhinagar. I'm into developing games, VFX and simulations. I've mentioned some of my work below. 
 
 ## Research Interest
 
@@ -35,7 +35,7 @@ Here is a horizontal rule
 
 Here is a blockquote
 
-> To a great mind, nothing is little
+> Roses are red, my code is neat. Lmao, Yeet.
 
 ## References
 
