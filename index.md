@@ -47,11 +47,12 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * Play [Here](https://drive.google.com/a/iitgn.ac.in/file/d/1RTDkU-kCBgqKmpHz13iJLWdAk9BMoVwX/view?usp=drivesdk)
 8. Return To Monke
  * Currently under developement under a testing deal by [Kwalee](https://www.kwalee.com/)
-10. Fertilize.io
+9. Fertilize.io
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.fert)
  * Watch the Trailer
  * Made in 2-3 days (I was stepping my shoes into game developement that time) to be displayed in some Senate Meeting by our current club secretary. This game also includes a      free open source database that I used to create an online leaderboard completely free (without paying google Play’s hefty 25$ cost)
  
+ *Find more games developed by me [here](https://play.google.com/store/apps/developer?id=DigiS+IIT+Gandhinagar), [here](https://makra.itch.io/), and [here](https://play.google.com/store/apps/dev?id=7545721879938982945)
 
 ## Simulations
 
@@ -71,6 +72,8 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
    This game uses real-time Jelly-Physics that I developed in Unity. Currently, I'm working on optimizing this code and the game for low-end devices (especially mobile devices).
    Right now, for the cubes to simulate a jelly effortlessly they need around 1.2 million tris each, which is quite resource consuming. Given that by using only 5 of them my PC    (GTX-1050, i5-8250U) could barely hit 60fps. When the game will be optimized enough to run on a high-end mobile device (SD845 or later) then I'll release it. 
   
+## Project Holly
+ * 
 ## POR
  1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)
   * Leading a team of 70 game developers in my college. 
