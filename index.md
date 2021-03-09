@@ -53,5 +53,6 @@ Here is a blockquote
   This game uses real-time Jelly-Physics that I developed in Unity. Currently, I'm working on optimizing this code and the game for low-end devices (especially mobile devices).
   Right now, for the cubes to simulate a jelly effortlessly they need around 1.2 million tris each, which is quite resource consuming. Given that by using only 5 of them my PC     (GTX-1050, i5-8250U) could barely hit 60fps. When the game will be optimized enough to run on a high-end mobile device (SD845 or later) then I'll release it. 
   
-* [Fun with shaders - GameJam 2020 AD Trailer](https://youtu.be/9tfnqnrit_0)<br> 
+* [Fun with shaders - GameJam 2020 AD Trailer](https://youtu.be/4zfHbw6GRes)<br> 
   I made this trailer using a custom shader that I wrote for Unity. This shader uses one-sided features of multiple planes to give a non-euclidean look (currently working on a     puzzle-game based project that uses this!).  Also, I wrote a shader to replicate the look of HDRP reflective materials using Unity's built-in render pipeline and a reflection   probe. Added the materials based on these shaders to the mascots and the jar!
+  
