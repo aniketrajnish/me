@@ -46,7 +46,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
 2. Faster Than Light (Hypercasual)
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.FasterThanLight)
  * Won the [JAMBOOST](https://gamejam.com/jam/jamboost) game jam hosted by [Chartboost](https://www.linkedin.com/company/chartboost/) and a prize of 1000$
- * Did fairly well in tests CPI tests.
+ * Did fairly well in CPI tests.
  * Got 180$ for promotion.
 3. Faster Than Light (PC)
  * Play [Here](https://makra.itch.io/faster-than-light)
@@ -87,6 +87,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
   * Leading a team of 70 game developers in my college. 
   * In the past 6 months, DigiS has become the most active club and the biggest Game Development College club amongst all IITs.
   * We've been the leading Indian game development team in several game jams.
+  * Organized an AR workshop attended by 300 people from IIT Bombay, IIT Hyderabad & IIT Gandhinagar.
   * Organized [Game Jam 2020 AD](https://itch.io/jam/gamejam-2020-ad) in collaboration with [Amalthea IIT Gandhinagar](https://www.instagram.com/amalthea_iitgn/). 609 people         participated to make 96 games making it the third biggest Indian game jam to be held on itch.
 
  
