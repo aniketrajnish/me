@@ -27,4 +27,6 @@ is_contact: true
 4. [Itch](https://makra.itch.io/)
 5. [Play Store](https://play.google.com/store/apps/dev?id=7545721879938982945)
 6. [Instagram](https://www.instagram.com/aniketrajnis/)
-7. [Only Fans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+7. [Digis- Instagram](https://www.instagram.com/digis_iitgn/)
+8. [Digis- Play Store](https://play.google.com/store/apps/developer?id=DigiS+IIT+Gandhinagar)
+9. [Only Fans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
