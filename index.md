@@ -22,35 +22,35 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
 **1. Two Opposites**
  * Play [Here](https://makra.itch.io/two-opposites)
  * Made in 7 days for the 2021 Brackeys Game Jam (2nd biggest gamejam on itch with 10k+ participants)
- * Game ranked #22 in the innovation category, #44 in the Game Design category and #71 overall.
+ * Game ranked #22 in the innovation category, #44 in the Game Design category and #71 overall.<br>
 **2. Faster Than Light (Hypercasual)**
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.FasterThanLight)
  * Won the [JAMBOOST](https://gamejam.com/jam/jamboost) game jam hosted by [Chartboost](https://www.linkedin.com/company/chartboost/) and a prize of 1000$
  * Did fairly well in tests CPI tests.
- * Got 180$ for promotion.
+ * Got 180$ for promotion.<br>
 **3. Faster Than Light (PC)**
  * Play [Here](https://makra.itch.io/faster-than-light)
  * Made in 7 days for the 2020 Brackeys Game Jam (3nd biggest gamejam on itch with 9k+ participants)
- * Game ranked #71 in Audio category and #132 overall.
+ * Game ranked #71 in Audio category and #132 overall.<br>
 **4. Are Ya Winning Son?**
  * Play [Here](https://makra.itch.io/are-ya-winning-son)
  * Made in 2 days for the 2020 GMTK Game Jam (Biggest gamejam on itch with 19k+ participants)
- * Game's presentation ranked #221.
+ * Game's presentation ranked #221.<br>
 **5. 2048 Jelly** 
- * Play [Here](https://play.google.com/store/apps/details?id=com.Makra.J2048)
+ * Play [Here](https://play.google.com/store/apps/details?id=com.Makra.J2048)<br>
 **6. AFPS**
  * Leading a team of 25 individuals working on an Indian themed multiplayer game.
- * Watch the [teaser](https://youtu.be/pLk2W575Z78)
+ * Watch the [teaser](https://youtu.be/pLk2W575Z78)<br>
 **7. Covid 19 Survival Royale**
  * A FPS-shooter pandemic simulator I made.
  * Got the first prize in a game jam hosted by my college.
- * Play [Here](https://drive.google.com/a/iitgn.ac.in/file/d/1RTDkU-kCBgqKmpHz13iJLWdAk9BMoVwX/view?usp=drivesdk)
+ * Play [Here](https://drive.google.com/a/iitgn.ac.in/file/d/1RTDkU-kCBgqKmpHz13iJLWdAk9BMoVwX/view?usp=drivesdk)<br>
 **8. Return To Monke**
- * Currently under developement under a testing deal by [Kwalee](https://www.kwalee.com/)
+ * Currently under developement under a testing deal by [Kwalee](https://www.kwalee.com/)<br>
 **9. Fertilize.io**
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.fert)
  * Watch the Trailer
- * Made in 2-3 days (I was stepping my shoes into game developement that time) to be displayed in some Senate Meeting by our current club secretary. This game also includes a      free open source database that I used to create an online leaderboard completely free (without paying google Play’s hefty 25$ cost)
+ * Made in 2-3 days (I was stepping my shoes into game developement that time) to be displayed in some Senate Meeting by our current club secretary. This game also includes a      free open source database that I used to create an online leaderboard completely free (without paying google Play’s hefty 25$ cost)<br>
  
  *Find more games developed by me [here](https://play.google.com/store/apps/developer?id=DigiS+IIT+Gandhinagar), [here](https://makra.itch.io/), and [here](https://play.google.com/store/apps/dev?id=7545721879938982945)
 
