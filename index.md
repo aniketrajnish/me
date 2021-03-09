@@ -15,7 +15,7 @@ Type | List
 Languages | C#, Python, XML, HTML, CSS, JavaScript, C++  
 Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop, Blender Adobe XD, MATLAB
 
-> Roses are red, my code is neat. Lmao, Yeet.
+> Roses are red, this page is neat. Lmao, Yeet.
 
 
 ## Simulations
