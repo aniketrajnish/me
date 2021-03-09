@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me3.jpg">
 
-I'm a sophomore and the secertary of game developement club at IIT Gandhinagar ([DigiS IIT Gandhinagr](https://www.instagram.com/digis_iitgn/)). I'm into developing games, VFX, video editing and simulations. I prefer commiting on Unity Collab than Git. The sole puprose of my Git account is this page, however I might share some of my code in the future if I feel it is worth sharing. I've mentioned some of my work below. If you want the source code/ build of any of these or wanna collab you can hit me up!
+I'm a sophomore and the secertary of game developement club at IIT Gandhinagar ([DigiS IIT Gandhinagr](https://www.instagram.com/digis_iitgn/)). I'm into developing games, VFX, editing videos and simulations. I prefer commiting on Unity Collab than Git. The sole puprose of my Git account is this page, however I might share some of my code in the future if I feel it is worth sharing. I've mentioned some of my work below. If you want the source code/ build of any of these or wanna collab you can hit me up!
 
 ## Research Interest
 
