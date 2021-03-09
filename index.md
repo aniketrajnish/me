@@ -58,7 +58,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * [Realtime Jelly Simulation in Unity](https://youtu.be/fMwoglpPgFk)<br>
    This simulation was rendered in real-time using Unity. This Project aims at rendering complex simulations like this in real-time which can take hours to render on a decent      PC.
   
- * [Non Euclidean World in Unity](https://youtu.be/fMwoglpPgFk)<br>
+ * [Non Euclidean World in Unity](https://youtu.be/wi1RoQJWHbk)<br>
    Demonstration of a real-time non-euclidean world I made using Unity. This project can be used in puzzle games based on optical illusion. Inspired by the works of CodeParade.
  
  * [Realtime Slime Simulation in Unity](https://youtu.be/a__DdXiYQ-U)<br>
