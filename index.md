@@ -8,24 +8,12 @@ layout: default
 
 I’m a sophomore and the secretary of the game development club at IIT Gandhinagar ([DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)). I’m into developing games, VFX, editing videos, and simulations. I prefer committing to Unity Collab more than Git. The sole purpose of my Git account is this page, however, I might share some of my code in the future if I feel it is worth sharing. I’ve mentioned some of my work below. If you want the source code/ build of any of these or wanna collab you can hit me up!
 
-## POR
-1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)
-  * Leading a team of 70 game developers in my college. 
-  * In the past 6 months, DigiS has become the most active club and the biggest Game Developement College club amongst all IITs.
-  * We've been the leading Indian game developement team in several game jams.
-  * Organized [Game Jam 2020 AD](https://itch.io/jam/gamejam-2020-ad) in collaboration with [Amalthea IIT Gandhinagar](https://www.instagram.com/amalthea_iitgn/). 609 people         participated to make 96 games making it the third biggest Indian game jam to be held on itch.
-  
-2. Eureka Video Coordinator
-  * Led a team of 12 video editors.
-  * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn.
-
 ## Skills
 
 Type | List
 -----|-------|--------
 Languages | C#, Python, XML, HTML, CSS, JavaScript, C++  
 Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop, Blender Adobe XD, MATLAB
-
 
 > Roses are red, my code is neat. Lmao, Yeet.
 
@@ -66,4 +54,17 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
    *Fun Fact: Most of the trailers and intro videos for societies, events & fests of IITGn are made on game Engines instead of dedicated editing softwares as it is done by us.*
   
  
+## POR
+1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)
+  * Leading a team of 70 game developers in my college. 
+  * In the past 6 months, DigiS has become the most active club and the biggest Game Developement College club amongst all IITs.
+  * We've been the leading Indian game developement team in several game jams.
+  * Organized [Game Jam 2020 AD](https://itch.io/jam/gamejam-2020-ad) in collaboration with [Amalthea IIT Gandhinagar](https://www.instagram.com/amalthea_iitgn/). 609 people         participated to make 96 games making it the third biggest Indian game jam to be held on itch.
+  
+2. Eureka Video Coordinator
+  * Led a team of 12 video editors.
+  * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn.
+
+
+
 
