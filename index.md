@@ -23,31 +23,31 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * Play [Here](https://makra.itch.io/two-opposites)
  * Made in 7 days for the 2021 Brackeys Game Jam (2nd biggest gamejam on itch with 10k+ participants)
  * Game ranked #22 in the innovation category, #44 in the Game Design category and #71 overall.
-2. Faster Than Light (Hypercasual)
+**2. Faster Than Light (Hypercasual)**
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.FasterThanLight)
  * Won the [JAMBOOST](https://gamejam.com/jam/jamboost) game jam hosted by [Chartboost](https://www.linkedin.com/company/chartboost/) and a prize of 1000$
  * Did fairly well in tests CPI tests.
  * Got 180$ for promotion.
-3. Faster Than Light (PC)
+**3. Faster Than Light (PC)**
  * Play [Here](https://makra.itch.io/faster-than-light)
  * Made in 7 days for the 2020 Brackeys Game Jam (3nd biggest gamejam on itch with 9k+ participants)
  * Game ranked #71 in Audio category and #132 overall.
-4. Are Ya Winning Son?
+**4. Are Ya Winning Son?**
  * Play [Here](https://makra.itch.io/are-ya-winning-son)
  * Made in 2 days for the 2020 GMTK Game Jam (Biggest gamejam on itch with 19k+ participants)
  * Game's presentation ranked #221.
-5. 2048 Jelly 
+**5. 2048 Jelly** 
  * Play [Here](https://play.google.com/store/apps/details?id=com.Makra.J2048)
-6. AFPS
+**6. AFPS**
  * Leading a team of 25 individuals working on an Indian themed multiplayer game.
  * Watch the [teaser](https://youtu.be/pLk2W575Z78)
-7. Covid 19 Survival Royale
+**7. Covid 19 Survival Royale**
  * A FPS-shooter pandemic simulator I made.
  * Got the first prize in a game jam hosted by my college.
  * Play [Here](https://drive.google.com/a/iitgn.ac.in/file/d/1RTDkU-kCBgqKmpHz13iJLWdAk9BMoVwX/view?usp=drivesdk)
-8. Return To Monke
+**8. Return To Monke**
  * Currently under developement under a testing deal by [Kwalee](https://www.kwalee.com/)
-9. Fertilize.io
+**9. Fertilize.io**
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.fert)
  * Watch the Trailer
  * Made in 2-3 days (I was stepping my shoes into game developement that time) to be displayed in some Senate Meeting by our current club secretary. This game also includes a      free open source database that I used to create an online leaderboard completely free (without paying google Play’s hefty 25$ cost)
