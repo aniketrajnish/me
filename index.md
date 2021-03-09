@@ -17,17 +17,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## Typography
+## Skills
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
 
-Year | Award | Category
+Organization | Position
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+Languages | C#, Python, XML, HTML, CSS, JavaScript, C++  
+Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop, Adobe XD, MATLAB
+ 
+2014 | Satellite 
 
 Here is a horizontal rule
 
