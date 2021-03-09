@@ -65,6 +65,11 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
   * Led a team of 12 video editors.
   * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn.
 
-
+## Misc
+* Love playing [games](https://www.youtube.com/playlist?list=PLQi4IKEYBPHWsrbZpf24op7APre8zRwzH) as much as I love making them.
+* It's evident but yes I have a small [YouTube Channel](https://www.youtube.com/channel/UCK8irXTX_8mbz-ytFiZ96bA)
+* Did [something](https://youtu.be/Jv5gQzI1xhk) in Unity people thought was not possible XD
+* Came across this beatiful [bug](https://youtu.be/7KExwAeeuqs)
+* [Remade Dani's Flash Games in Unity] (https://www.youtube.com/playlist?list=PLQi4IKEYBPHUisVkBGx31KaW5VgUB64z2)
 
 
