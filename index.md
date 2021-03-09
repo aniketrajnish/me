@@ -65,3 +65,10 @@ Here is a blockquote
  * [Messing around with Particle Systems - Psychedelic Edit](https://youtu.be/ofWcNlWYwnI)<br> 
    Because Dani said 'You can make anything using Unity's particle system'
   
+ * [Recreated Coldplay's Up&Up Music Video](https://youtu.be/gy9gc2orpCY)<br> 
+   Rendered using Motion Tracking in Blender and After Effects
+   
+ * [Recreated Interstellar's Black Hole](https://youtu.be/pGvQrE8Plsc)<br> 
+   With 0 budget, blender and the help of my senior.<br><br>
+   *Fun Fact: Most of the trailers and intro videos for societies, events & fests of IITGn are made on game Engines instead of dedicated editing softwares as it is done by us.*
+   
