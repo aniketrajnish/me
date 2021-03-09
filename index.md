@@ -39,5 +39,7 @@ Here is a blockquote
 
 ## Fun Side Projects
 
-* [Jelly Simulation In Unity](https://youtu.be/fMwoglpPgFk)
+* [Realtime Jelly Simulation In Unity](https://youtu.be/fMwoglpPgFk)
+  This simulation was rendered in real-time using Unity. This Project aims at rendering complex simulations like this in real-time which can take hours to render on a HIGH-END     PC. Further, I plan to make a 3D-ASMR version of the popular puzzle game 2048 using this simulation.
+  
 * [Non Euclidean World in Unity](https://youtu.be/fMwoglpPgFk)
