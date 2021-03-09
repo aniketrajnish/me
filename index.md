@@ -42,14 +42,14 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * Leading a team of 25 individuals working on an Indian themed multiplayer game.
  * Watch the [teaser](https://youtu.be/pLk2W575Z78)
 7. Covid 19 Survival Royale
- * A FPS-shooter pandemic simulator I made.
+ * An FPS-shooter pandemic simulator I made.
  * Got the first prize in a game jam hosted by my college.
  * Play [Here](https://drive.google.com/a/iitgn.ac.in/file/d/1RTDkU-kCBgqKmpHz13iJLWdAk9BMoVwX/view?usp=drivesdk)
 8. Return To Monke
- * Currently under developement under a testing deal by [Kwalee](https://www.kwalee.com/)
+ * Currently under development under a testing deal by [Kwalee](https://www.kwalee.com/)
 9. Fertilize.io
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.fert) 
- * Made in 2-3 days (I was stepping my shoes into game developement that time) to be displayed in some Senate Meeting by our current club secretary. This game also includes a      free open source database that I used to create an online leaderboard completely free (without paying google Play’s hefty 25$ cost)
+ * Made in 2-3 days (I was stepping my shoes into game development that time) to be displayed in some Senate Meeting by our current club secretary. This game also includes a        free open source database that I used to create an online leaderboard completely free (without paying google Play’s hefty 25$ cost)
  
 *Find more games developed by me [here](https://play.google.com/store/apps/developer?id=DigiS+IIT+Gandhinagar), [here](https://makra.itch.io/), and [here](https://play.google.com/store/apps/dev?id=7545721879938982945)*
 
@@ -83,8 +83,8 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
 ## POR
  1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)
   * Leading a team of 70 game developers in my college. 
-  * In the past 6 months, DigiS has become the most active club and the biggest Game Developement College club amongst all IITs.
-  * We've been the leading Indian game developement team in several game jams.
+  * In the past 6 months, DigiS has become the most active club and the biggest Game Development College club amongst all IITs.
+  * We've been the leading Indian game development team in several game jams.
   * Organized [Game Jam 2020 AD](https://itch.io/jam/gamejam-2020-ad) in collaboration with [Amalthea IIT Gandhinagar](https://www.instagram.com/amalthea_iitgn/). 609 people         participated to make 96 games making it the third biggest Indian game jam to be held on itch.
 
  
@@ -117,7 +117,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * It's evident but yes I have a small [YouTube Channel](https://www.youtube.com/channel/UCK8irXTX_8mbz-ytFiZ96bA)
  * Did [something](https://youtu.be/Jv5gQzI1xhk) in Unity people thought was not possible XD
  * [Made a 2d scene look 3d with lighting](https://youtu.be/lTMu77EimPk)
- * Came across this beatiful [bug](https://youtu.be/7KExwAeeuqs)
+ * Came across this beautiful [bug](https://youtu.be/7KExwAeeuqs)
  * [Remade Dani's Flash Games in Unity](https://www.youtube.com/playlist?list=PLQi4IKEYBPHUisVkBGx31KaW5VgUB64z2)
  * A [random shitpost game](https://play.google.com/store/apps/details?id=com.makra.KillTheStickMan&hl=en&gl=US) that I made in 15 minutes blew up on play store and is being downloaded by thousands of users everyday.
  * My first unity project was a [FAP Simulator](https://drive.google.com/file/d/14pdEJFl5diFXQK_w2OoOAnTkQGs10Eab/vi) XD
