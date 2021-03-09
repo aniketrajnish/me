@@ -70,6 +70,6 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
 * It's evident but yes I have a small [YouTube Channel](https://www.youtube.com/channel/UCK8irXTX_8mbz-ytFiZ96bA)
 * Did [something](https://youtu.be/Jv5gQzI1xhk) in Unity people thought was not possible XD
 * Came across this beatiful [bug](https://youtu.be/7KExwAeeuqs)
-* [Remade Dani's Flash Games in Unity] (https://www.youtube.com/playlist?list=PLQi4IKEYBPHUisVkBGx31KaW5VgUB64z2)
+* [Remade Dani's Flash Games in Unity](https://www.youtube.com/playlist?list=PLQi4IKEYBPHUisVkBGx31KaW5VgUB64z2)
 
 
