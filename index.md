@@ -8,14 +8,8 @@ layout: default
 
 I’m a sophomore and the secretary of the game development club at IIT Gandhinagar ([DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)). I’m into developing games, VFX, editing videos, and simulations. I prefer committing to Unity Collab more than Git. The sole purpose of my Git account is this page, however, I might share some of my code in the future if I feel it is worth sharing. I’ve mentioned some of my work below. If you want the source code/ build of any of these or wanna collab you can hit me up!
 
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## POR
+1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)
 
 ## Skills
 
@@ -23,13 +17,7 @@ Type | List
 -----|-------|--------
 Languages | C#, Python, XML, HTML, CSS, JavaScript, C++  
 Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop, Adobe XD, MATLAB
- 
 
-Here is a horizontal rule
-
----
-
-Here is a blockquote
 
 > Roses are red, my code is neat. Lmao, Yeet.
 
@@ -50,7 +38,6 @@ Here is a blockquote
   This game uses real-time Jelly-Physics that I developed in Unity. Currently, I'm working on optimizing this code and the game for low-end devices (especially mobile devices).
   Right now, for the cubes to simulate a jelly effortlessly they need around 1.2 million tris each, which is quite resource consuming. Given that by using only 5 of them my PC     (GTX-1050, i5-8250U) could barely hit 60fps. When the game will be optimized enough to run on a high-end mobile device (SD845 or later) then I'll release it. 
   
-  ---
 
 ## VFX & Edits
   
@@ -70,5 +57,5 @@ Here is a blockquote
    With 0 budget, blender and the help of my senior.<br><br>
    *Fun Fact: Most of the trailers and intro videos for societies, events & fests of IITGn are made on game Engines instead of dedicated editing softwares as it is done by us.*
   
-  ---
+ 
 
