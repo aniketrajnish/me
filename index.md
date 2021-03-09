@@ -19,6 +19,40 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
 
 ## Games
 
+1. Two Opposites
+ * Play [Here](https://makra.itch.io/two-opposites)
+ * Made in 7 days for the 2021 Brackeys Game Jam (2nd biggest gamejam on itch with 10k+ participants)
+ * Game ranked #22 in the innovation category, #44 in the Game Design category and #71 overall.
+2. Faster Than Light (Hypercasual)
+ * Play [Here](https://play.google.com/store/apps/details?id=com.makra.FasterThanLight)
+ * Won the [JAMBOOST](https://gamejam.com/jam/jamboost) game jam hosted by [Chartboost](https://www.linkedin.com/company/chartboost/) and a prize of 1000$
+ * Did fairly well in tests CPI tests.
+ * Got 180$ for promotion.
+3. Faster Than Light (PC)
+ * Play [Here](https://makra.itch.io/faster-than-light)
+ * Made in 7 days for the 2020 Brackeys Game Jam (3nd biggest gamejam on itch with 9k+ participants)
+ * Game ranked #71 in Audio category and #132 overall.
+4. Are Ya Winning Son?
+ * Play [Here](https://makra.itch.io/are-ya-winning-son)
+ * Made in 2 days for the 2020 GMTK Game Jam (Biggest gamejam on itch with 19k+ participants)
+ * Game's presentation ranked #221.
+5. 2048 Jelly 
+ * Play [Here](https://play.google.com/store/apps/details?id=com.Makra.J2048)
+6. AFPS
+ * Leading a team of 25 individuals working on an Indian themed multiplayer game.
+ * Watch the [teaser](https://youtu.be/pLk2W575Z78)
+7. Covid 19 Survival Royale
+ * A FPS-shooter pandemic simulator I made.
+ * Got the first prize in a game jam hosted by my college.
+ * Play [Here](https://drive.google.com/a/iitgn.ac.in/file/d/1RTDkU-kCBgqKmpHz13iJLWdAk9BMoVwX/view?usp=drivesdk)
+8. Return To Monke
+ * Currently under developement under a testing deal by [Kwalee](https://www.kwalee.com/)
+10. Fertilize.io
+ * Play [Here](https://play.google.com/store/apps/details?id=com.makra.fert)
+ * Watch the Trailer
+ * Made in 2-3 days (I was stepping my shoes into game developement that time) to be displayed in some Senate Meeting by our current club secretary. This game also includes a      free open source database that I used to create an online leaderboard completely free (without paying google Play’s hefty 25$ cost)
+ 
+
 ## Simulations
 
  * [Realtime Jelly Simulation in Unity](https://youtu.be/fMwoglpPgFk)<br>
@@ -30,7 +64,9 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * [Realtime Slime Simulation in Unity](https://youtu.be/a__DdXiYQ-U)<br>
    2 hours of code, 2 weeks of Fluid Mechanics. Rendered in real-time using Unity.<br>
    Disclaimer: Couldn't make it look aesthetically appealing as adding a transparent material with a reflection probe attached to so many particles could have possibly fried my    PC.
-  
+ * [Fire Simulation in Blender](https://youtu.be/_QH19dipOxY)<br> 
+   Done with the help of one of my club members.
+   
  * [Putting my simulations to work - 2048 Jelly](https://youtu.be/9tfnqnrit_0)<br> 
    This game uses real-time Jelly-Physics that I developed in Unity. Currently, I'm working on optimizing this code and the game for low-end devices (especially mobile devices).
    Right now, for the cubes to simulate a jelly effortlessly they need around 1.2 million tris each, which is quite resource consuming. Given that by using only 5 of them my PC    (GTX-1050, i5-8250U) could barely hit 60fps. When the game will be optimized enough to run on a high-end mobile device (SD845 or later) then I'll release it. 
@@ -71,7 +107,9 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * Love playing [games](https://www.youtube.com/playlist?list=PLQi4IKEYBPHWsrbZpf24op7APre8zRwzH) as much as I love making them.
  * It's evident but yes I have a small [YouTube Channel](https://www.youtube.com/channel/UCK8irXTX_8mbz-ytFiZ96bA)
  * Did [something](https://youtu.be/Jv5gQzI1xhk) in Unity people thought was not possible XD
+ * [Made a 2d scene look 3d with lighting](https://youtu.be/lTMu77EimPk)
  * Came across this beatiful [bug](https://youtu.be/7KExwAeeuqs)
  * [Remade Dani's Flash Games in Unity](https://www.youtube.com/playlist?list=PLQi4IKEYBPHUisVkBGx31KaW5VgUB64z2)
+ * My first unity project was a [FAP Simulator](https://drive.google.com/file/d/14pdEJFl5diFXQK_w2OoOAnTkQGs10Eab/vi) XD
 
 <img src="relatable.jpg">
