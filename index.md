@@ -50,6 +50,8 @@ Here is a blockquote
   This game uses real-time Jelly-Physics that I developed in Unity. Currently, I'm working on optimizing this code and the game for low-end devices (especially mobile devices).
   Right now, for the cubes to simulate a jelly effortlessly they need around 1.2 million tris each, which is quite resource consuming. Given that by using only 5 of them my PC     (GTX-1050, i5-8250U) could barely hit 60fps. When the game will be optimized enough to run on a high-end mobile device (SD845 or later) then I'll release it. 
   
+  ---
+
 ## VFX & Edits
   
 * [Messing around with shaders - GameJam 2020 AD Trailer](https://youtu.be/4zfHbw6GRes)<br> 
@@ -67,4 +69,6 @@ Here is a blockquote
  * [Recreated Interstellar's Black Hole](https://youtu.be/pGvQrE8Plsc)<br> 
    With 0 budget, blender and the help of my senior.<br><br>
    *Fun Fact: Most of the trailers and intro videos for societies, events & fests of IITGn are made on game Engines instead of dedicated editing softwares as it is done by us.*
-   
+  
+  ---
+
