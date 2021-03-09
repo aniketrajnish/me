@@ -17,23 +17,23 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
 
 > Roses are red, this page is neat. Lmao, Yeet.
 
-##Games
+## Games
 
 ## Simulations
 
-* [Realtime Jelly Simulation in Unity](https://youtu.be/fMwoglpPgFk)<br>
-  This simulation was rendered in real-time using Unity. This Project aims at rendering complex simulations like this in real-time which can take hours to render on a decent PC.
+ * [Realtime Jelly Simulation in Unity](https://youtu.be/fMwoglpPgFk)<br>
+   This simulation was rendered in real-time using Unity. This Project aims at rendering complex simulations like this in real-time which can take hours to render on a decent      PC.
   
-* [Non Euclidean World in Unity](https://youtu.be/fMwoglpPgFk)<br>
-  Demonstration of a real-time non-euclidean world I made using Unity. This project can be used in puzzle games based on optical illusion. Inspired by the works of CodeParade.
+ * [Non Euclidean World in Unity](https://youtu.be/fMwoglpPgFk)<br>
+   Demonstration of a real-time non-euclidean world I made using Unity. This project can be used in puzzle games based on optical illusion. Inspired by the works of CodeParade.
  
-* [Realtime Slime Simulation in Unity](https://youtu.be/a__DdXiYQ-U)<br>
-  2 hours of code, 2 weeks of Fluid Mechanics. Rendered in real-time using Unity.<br>
-  Disclaimer: Couldn't make it look aesthetically appealing as adding a transparent material with a reflection probe attached to so many particles could have possibly fried my     PC.
+ * [Realtime Slime Simulation in Unity](https://youtu.be/a__DdXiYQ-U)<br>
+   2 hours of code, 2 weeks of Fluid Mechanics. Rendered in real-time using Unity.<br>
+   Disclaimer: Couldn't make it look aesthetically appealing as adding a transparent material with a reflection probe attached to so many particles could have possibly fried my    PC.
   
-* [Putting my simulations to work - 2048 Jelly](https://youtu.be/9tfnqnrit_0)<br> 
-  This game uses real-time Jelly-Physics that I developed in Unity. Currently, I'm working on optimizing this code and the game for low-end devices (especially mobile devices).
-  Right now, for the cubes to simulate a jelly effortlessly they need around 1.2 million tris each, which is quite resource consuming. Given that by using only 5 of them my PC     (GTX-1050, i5-8250U) could barely hit 60fps. When the game will be optimized enough to run on a high-end mobile device (SD845 or later) then I'll release it. 
+ * [Putting my simulations to work - 2048 Jelly](https://youtu.be/9tfnqnrit_0)<br> 
+   This game uses real-time Jelly-Physics that I developed in Unity. Currently, I'm working on optimizing this code and the game for low-end devices (especially mobile devices).
+   Right now, for the cubes to simulate a jelly effortlessly they need around 1.2 million tris each, which is quite resource consuming. Given that by using only 5 of them my PC    (GTX-1050, i5-8250U) could barely hit 60fps. When the game will be optimized enough to run on a high-end mobile device (SD845 or later) then I'll release it. 
   
 ## POR
  1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)
