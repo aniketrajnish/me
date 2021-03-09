@@ -36,25 +36,25 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
   Right now, for the cubes to simulate a jelly effortlessly they need around 1.2 million tris each, which is quite resource consuming. Given that by using only 5 of them my PC     (GTX-1050, i5-8250U) could barely hit 60fps. When the game will be optimized enough to run on a high-end mobile device (SD845 or later) then I'll release it. 
   
 ## POR
-1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)
+ 1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)
   * Leading a team of 70 game developers in my college. 
   * In the past 6 months, DigiS has become the most active club and the biggest Game Developement College club amongst all IITs.
   * We've been the leading Indian game developement team in several game jams.
   * Organized [Game Jam 2020 AD](https://itch.io/jam/gamejam-2020-ad) in collaboration with [Amalthea IIT Gandhinagar](https://www.instagram.com/amalthea_iitgn/). 609 people         participated to make 96 games making it the third biggest Indian game jam to be held on itch.
 
  
-2. Eureka Video Coordinator
+ 2. Eureka Video Coordinator
   * Led a team of 12 video editors.
   * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn.
 
 
 ## VFX & Edits
   
-* [Messing around with shaders - GameJam 2020 AD Trailer](https://youtu.be/4zfHbw6GRes)<br> 
-  I made this trailer using a custom shader that I wrote for Unity. This shader uses one-sided features of multiple planes to give a non-euclidean look (currently working on a     puzzle-game based project that uses this!).  Also, I wrote a shader to replicate the look of HDRP reflective materials using Unity's built-in render pipeline and a reflection   probe. Added the materials based on these shaders to the mascots and the jar!
+ * [Messing around with shaders - GameJam 2020 AD Trailer](https://youtu.be/4zfHbw6GRes)<br> 
+   I made this trailer using a custom shader that I wrote for Unity. This shader uses one-sided features of multiple planes to give a non-euclidean look (currently working on a    puzzle-game based project that uses this!).  Also, I wrote a shader to replicate the look of HDRP reflective materials using Unity's built-in render pipeline and a reflection    probe. Added the materials based on these shaders to the mascots and the jar!
   
-* [Messing around with VFX Graphs - GameJam 2020 AD Theme Reveal Video](https://youtu.be/kPlAOdrKgbw)<br> 
-  I had to make a theme reveal for a game jam that my college is hosting. So I decided to utilize this opportunity and learn VFX graphs in Unity. VFX graphs help to simulate o     over a million particles in real-time. So everything that you see in this video is made out of '2020', which was the theme for the JAM itself.
+ * [Messing around with VFX Graphs - GameJam 2020 AD Theme Reveal Video](https://youtu.be/kPlAOdrKgbw)<br> 
+   I had to make a theme reveal for a game jam that my college is hosting. So I decided to utilize this opportunity and learn VFX graphs in Unity. VFX graphs help to simulate o    over a million particles in real-time. So everything that you see in this video is made out of '2020', which was the theme for the JAM itself.
   
  * [Messing around with Particle Systems - Psychedelic Edit](https://youtu.be/ofWcNlWYwnI)<br> 
    Because Dani said 'You can make anything using Unity's particle system'
@@ -68,10 +68,10 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
   
 
 ## Misc
-* Love playing [games](https://www.youtube.com/playlist?list=PLQi4IKEYBPHWsrbZpf24op7APre8zRwzH) as much as I love making them.
-* It's evident but yes I have a small [YouTube Channel](https://www.youtube.com/channel/UCK8irXTX_8mbz-ytFiZ96bA)
-* Did [something](https://youtu.be/Jv5gQzI1xhk) in Unity people thought was not possible XD
-* Came across this beatiful [bug](https://youtu.be/7KExwAeeuqs)
-* [Remade Dani's Flash Games in Unity](https://www.youtube.com/playlist?list=PLQi4IKEYBPHUisVkBGx31KaW5VgUB64z2)
+ * Love playing [games](https://www.youtube.com/playlist?list=PLQi4IKEYBPHWsrbZpf24op7APre8zRwzH) as much as I love making them.
+ * It's evident but yes I have a small [YouTube Channel](https://www.youtube.com/channel/UCK8irXTX_8mbz-ytFiZ96bA)
+ * Did [something](https://youtu.be/Jv5gQzI1xhk) in Unity people thought was not possible XD
+ * Came across this beatiful [bug](https://youtu.be/7KExwAeeuqs)
+ * [Remade Dani's Flash Games in Unity](https://www.youtube.com/playlist?list=PLQi4IKEYBPHUisVkBGx31KaW5VgUB64z2)
 
 
