@@ -19,16 +19,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Skills
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Organization | Position
+Type | List
 -----|-------|--------
 Languages | C#, Python, XML, HTML, CSS, JavaScript, C++  
 Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop, Adobe XD, MATLAB
  
-2014 | Satellite 
 
 Here is a horizontal rule
 
