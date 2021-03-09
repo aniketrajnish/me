@@ -12,9 +12,12 @@ I’m a sophomore and the secretary of the game development club at IIT Gandhina
 1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)
   * Leading a team of 70 game developers in my college. 
   * In the past 6 months, DigiS has become the most active club and the biggest Game Developement College club amongst all IITs.
+  * We've been the leading Indian game developement team in several game jams.
   * Organized [Game Jam 2020 AD](https://itch.io/jam/gamejam-2020-ad) in collaboration with [Amalthea IIT Gandhinagar](https://www.instagram.com/amalthea_iitgn/). 609 people         participated to make 96 games making it the third biggest Indian game jam to be held on itch.
+  
 2. Eureka Video Coordinator
-
+  * Led a team of 12 video editors.
+  * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn.
 
 ## Skills
 
