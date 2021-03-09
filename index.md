@@ -72,7 +72,14 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
    Right now, for the cubes to simulate a jelly effortlessly they need around 1.2 million tris each, which is quite resource consuming. Given that by using only 5 of them my PC    (GTX-1050, i5-8250U) could barely hit 60fps. When the game will be optimized enough to run on a high-end mobile device (SD845 or later) then I'll release it. 
   
 ## Project Holly
- * 
+ * This project aims at unifying games and movies in ways never done before
+ * A platform for completely interactive movies
+ * The movies will proceed in the way you want them to
+ * Your choices form one of the many perspectives
+ * You take control of the protagonist
+ * Everything is streamed online so you only use your data for what you want
+ * Try the demo [here](https://play.google.com/store/apps/details?id=com.makra.Holly)
+ 
 ## POR
  1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)
   * Leading a team of 70 game developers in my college. 
@@ -112,6 +119,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * [Made a 2d scene look 3d with lighting](https://youtu.be/lTMu77EimPk)
  * Came across this beatiful [bug](https://youtu.be/7KExwAeeuqs)
  * [Remade Dani's Flash Games in Unity](https://www.youtube.com/playlist?list=PLQi4IKEYBPHUisVkBGx31KaW5VgUB64z2)
+ * A [random shitpost game](https://play.google.com/store/apps/details?id=com.makra.KillTheStickMan&hl=en&gl=US) that I made in 15 minutes blew up on play store and is being downloaded by thousands of users everyday.
  * My first unity project was a [FAP Simulator](https://drive.google.com/file/d/14pdEJFl5diFXQK_w2OoOAnTkQGs10Eab/vi) XD
 
 <img src="relatable.jpg">
