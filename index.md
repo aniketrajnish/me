@@ -10,13 +10,18 @@ I’m a sophomore and the secretary of the game development club at IIT Gandhina
 
 ## POR
 1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)
+  * Leading a team of 70 game developers in my college. 
+  * In the past 6 months, DigiS has become the most active club and the biggest Game Developement College club amongst all IITs.
+  * Organized [Game Jam 2020 AD](https://itch.io/jam/gamejam-2020-ad) in collaboration with [Amalthea IIT Gandhinagar](https://www.instagram.com/amalthea_iitgn/). 609 people         participated to make 96 games making it the third biggest Indian game jam to be held on itch.
+2. Eureka Video Coordinator
+
 
 ## Skills
 
 Type | List
 -----|-------|--------
 Languages | C#, Python, XML, HTML, CSS, JavaScript, C++  
-Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop, Adobe XD, MATLAB
+Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop, Blender Adobe XD, MATLAB
 
 
 > Roses are red, my code is neat. Lmao, Yeet.
