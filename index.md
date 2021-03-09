@@ -51,7 +51,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.fert) 
  * Made in 2-3 days (I was stepping my shoes into game developement that time) to be displayed in some Senate Meeting by our current club secretary. This game also includes a      free open source database that I used to create an online leaderboard completely free (without paying google Play’s hefty 25$ cost)
  
-*Find more games developed by me [here](https://play.google.com/store/apps/developer?id=DigiS+IIT+Gandhinagar), [here](https://makra.itch.io/), and [here](https://play.google.com/store/apps/dev?id=7545721879938982945)
+*Find more games developed by me [here](https://play.google.com/store/apps/developer?id=DigiS+IIT+Gandhinagar), [here](https://makra.itch.io/), and [here](https://play.google.com/store/apps/dev?id=7545721879938982945)*
 
 ## Simulations
 
