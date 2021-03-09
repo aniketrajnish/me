@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me3.jpg">
 
-I'm a sophomore and the secertary of game developement at IIT Gandhinagar. I'm into developing games, VFX and simulations. I've mentioned some of my work below. 
+I'm a sophomore and the secertary of game developement club at IIT Gandhinagar ([DigiS IIT Gandhinagr](https://www.instagram.com/digis_iitgn/)). I'm into developing games, VFX and simulations. I've mentioned some of my work below. 
 
 ## Research Interest
 
@@ -37,7 +37,7 @@ Here is a blockquote
 
 > Roses are red, my code is neat. Lmao, Yeet.
 
-## References
+## Fun Side Projects
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
+* [Jelly Simulation In Unity](https://youtu.be/fMwoglpPgFk)
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
