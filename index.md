@@ -6,8 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me3.jpg">
 
-I’m a sophomore and the secretary of the game development club at IIT Gandhinagar ([DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)). I’m into developing games, VFX, editing videos, and simulations. I’ve mentioned some of my work below. If you want the source code/ build of any of these or wanna collab you can hit me up!
-
+I’m a sophomore and the secretary of the game development club at IIT Gandhinagar ([DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)). I’m into developing games, VFX, editing videos, and simulations. I’ve mentioned some of my work below. If you want the source code/ build of any of these you can contact me! (Few of them are availabe on my [Github](https://github.com/aniketrajnish))
 ## Skills
 
 Type | List
@@ -56,7 +55,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
 
 
 ## Simulations
-
+ 
  * [Realtime Jelly Simulation in Unity](https://youtu.be/fMwoglpPgFk)<br>
    This simulation was rendered in real-time using Unity. This Project aims at rendering complex simulations like this in real-time which can take hours to render on a decent      PC.
   
