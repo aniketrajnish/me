@@ -12,7 +12,7 @@ I’m a sophomore and the secretary of the game development club at IIT Gandhina
 
 Type | List
 -----|-------|--------
-Languages | C#, Python, XML, HTML, CSS, JavaScript, C++  
+Languages | C#, HLSL, Python, XML, HTML, CSS, JavaScript, C++  
 Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop, Blender, Adobe XD, MATLAB
 
 > "If development took 69 lines of code, then fixing the bugs would take 420 more" - William Shakespeare
