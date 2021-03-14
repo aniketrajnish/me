@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me3.jpg">
 
-I’m a sophomore and the secretary of the game development club at IIT Gandhinagar ([DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)). I’m into developing games, VFX, editing videos, and simulations. I’ve mentioned some of my work below. If you want the source code/ build of any of these you can contact me! (Few of them are availabe on my [Github](https://github.com/aniketrajnish))
+I’m a sophomore and the secretary of the game development club at IIT Gandhinagar ([DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)). I’m into developing games, VFX, editing videos, and simulations. I’ve mentioned some of my work below. If you want the source code/ build of any of these you can contact me! (Few of them are available  on my [Github](https://github.com/aniketrajnish))
 ## Skills
 
 Type | List
