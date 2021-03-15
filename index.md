@@ -28,7 +28,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * Won the [JAMBOOST](https://gamejam.com/jam/jamboost) game jam hosted by [Chartboost](https://www.linkedin.com/company/chartboost/) and a prize of 1000$
  * Did fairly well in CPI tests.
  * Got 180$ for promotion.
-3. Faster Than Light (PC)
+3. Faster Than Light (PC)<img class="profile-picture" src="FTL.png">
  * Play [Here](https://makra.itch.io/faster-than-light)
  * Made in 7 days for the 2020 Brackeys Game Jam (3nd biggest gamejam on itch with 9k+ participants)
  * Game ranked #71 in Audio category and #132 overall.<br>
