@@ -93,7 +93,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
   * Organized [Game Jam 2020 AD](https://itch.io/jam/gamejam-2020-ad) in collaboration with [Amalthea IIT Gandhinagar](https://www.instagram.com/amalthea_iitgn/). 609 people         participated to make 96 games making it the third biggest Indian game jam to be held on itch.
 
  
- 2. Eureka Video Coordinator
+ 2. Eureka Video Coordinator <img class="profile-picture" src="FP.jpg">
   * Led a team of 12 video editors.
   * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn.
 
