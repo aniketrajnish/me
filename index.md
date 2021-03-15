@@ -66,6 +66,17 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  
 *Find more games developed by me [here](https://play.google.com/store/apps/developer?id=DigiS+IIT+Gandhinagar), [here](https://makra.itch.io/), and [here](https://play.google.com/store/apps/dev?id=7545721879938982945)*
 
+## Project Holly
+
+<img class="profile-picture" src="holly.png">
+
+ * This project aims at unifying games and movies in ways never done before
+ * A platform for completely interactive movies
+ * The movies will proceed in the way you want them to
+ * Your choices form one of the many perspectives
+ * You take control of the protagonist
+ * Everything is streamed online so you only use your data for what you want
+ * Try the demo [here](https://play.google.com/store/apps/details?id=com.makra.Holly)
 
 ## Simulations
  
@@ -85,17 +96,6 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
    This game uses real-time Jelly-Physics that I developed in Unity. Currently, I'm working on optimizing this code and the game for low-end devices (especially mobile devices).
    Right now, for the cubes to simulate a jelly effortlessly they need around 1.2 million tris each, which is quite resource consuming. Given that by using only 5 of them my PC    (GTX-1050, i5-8250U) could barely hit 60fps. When the game will be optimized enough to run on a high-end mobile device (SD845 or later) then I'll release it. 
   
-## Project Holly
-
-<img class="profile-picture" src="holly.png">
-
- * This project aims at unifying games and movies in ways never done before
- * A platform for completely interactive movies
- * The movies will proceed in the way you want them to
- * Your choices form one of the many perspectives
- * You take control of the protagonist
- * Everything is streamed online so you only use your data for what you want
- * Try the demo [here](https://play.google.com/store/apps/details?id=com.makra.Holly)
 
 ## VFX & Edits
   
