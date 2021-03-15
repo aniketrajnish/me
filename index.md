@@ -38,16 +38,16 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * Game's presentation ranked #221.
 5. 2048 Jelly<img class="profile-picture" src="2048j.jpg">
  * Play [Here](https://play.google.com/store/apps/details?id=com.Makra.J2048)
-6. AFPS<img class="profile-picture" src="TwoOpposites.png">
+6. AFPS
  * Leading a team of 25 individuals working on an Indian themed multiplayer game.
  * Watch the [teaser](https://youtu.be/pLk2W575Z78)
-7. Covid 19 Survival Royale<img class="profile-picture" src="TwoOpposites.png">
+7. Covid 19 Survival Royale<img class="profile-picture" src="afps.png">
  * An FPS-shooter pandemic simulator I made.
  * Got the first prize in a game jam hosted by my college.
  * Play [Here](https://drive.google.com/a/iitgn.ac.in/file/d/1RTDkU-kCBgqKmpHz13iJLWdAk9BMoVwX/view?usp=drivesdk)
-8. Return To Monke<img class="profile-picture" src="TwoOpposites.png">
+8. Return To Monke
  * Currently under development under a testing deal by [Kwalee](https://www.kwalee.com/)
-9. Fertilize.io<img class="profile-picture" src="TwoOpposites.png">
+9. Fertilize.io<img class="profile-picture" src="fert.png">
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.fert) 
  * Made in 2-3 days (I was stepping my shoes into game development that time) to be displayed in some Senate Meeting by our current club secretary. This game also includes a        free open source database that I used to create an online leaderboard completely free (without paying google Play’s hefty 25$ cost)
  
