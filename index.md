@@ -19,7 +19,8 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
 
 ## Games
 
-1. Two Opposites <img class="profile-picture" src="TwoOpposites.png">
+1. Two Opposites 
+<img class="profile-picture" src="TwoOpposites.png">
  * Play [Here](https://makra.itch.io/two-opposites)
  * Made in 7 days for the 2021 Brackeys Game Jam (2nd biggest gamejam on itch with 10k+ participants)
  * Game ranked #22 in the innovation category, #44 in the Game Design category and #71 overall.
