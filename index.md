@@ -85,7 +85,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * Try the demo [here](https://play.google.com/store/apps/details?id=com.makra.Holly)
  
 ## POR
- 1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/)
+ 1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/) <img class="profile-picture" src="Copy of DigiS Logo Unknown.png">
   * Leading a team of 70 game developers in my college. 
   * In the past 6 months, DigiS has become the most active club and the biggest Game Development College club amongst all IITs.
   * We've been the leading Indian game development team in several game jams.
