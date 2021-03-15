@@ -16,6 +16,19 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
 
 > "If development took 69 lines of code, then fixing the bugs would take 420 more" - William Shakespeare
 
+ 
+## POR
+ 1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/) <img class="profile-picture" src="Copy of DigiS Logo Unknown.png">
+  * Leading a team of 70 game developers in my college. 
+  * In the past 6 months, DigiS has become the most active club and the biggest Game Development College club amongst all IITs.
+  * We've been the leading Indian game development team in several game jams.
+  * Organized an AR workshop attended by 300 people from IIT Bombay, IIT Hyderabad & IIT Gandhinagar.
+  * Organized [Game Jam 2020 AD](https://itch.io/jam/gamejam-2020-ad) in collaboration with [Amalthea IIT Gandhinagar](https://www.instagram.com/amalthea_iitgn/). 609 people         participated to make 96 games making it the third biggest Indian game jam to be held on itch.
+
+ 
+ 2. Eureka Video Coordinator <img class="profile-picture" src="FP.jpg">
+  * Led a team of 12 video editors.
+  * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn.
 
 ## Games
 
@@ -83,20 +96,6 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * You take control of the protagonist
  * Everything is streamed online so you only use your data for what you want
  * Try the demo [here](https://play.google.com/store/apps/details?id=com.makra.Holly)
- 
-## POR
- 1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/) <img class="profile-picture" src="Copy of DigiS Logo Unknown.png">
-  * Leading a team of 70 game developers in my college. 
-  * In the past 6 months, DigiS has become the most active club and the biggest Game Development College club amongst all IITs.
-  * We've been the leading Indian game development team in several game jams.
-  * Organized an AR workshop attended by 300 people from IIT Bombay, IIT Hyderabad & IIT Gandhinagar.
-  * Organized [Game Jam 2020 AD](https://itch.io/jam/gamejam-2020-ad) in collaboration with [Amalthea IIT Gandhinagar](https://www.instagram.com/amalthea_iitgn/). 609 people         participated to make 96 games making it the third biggest Indian game jam to be held on itch.
-
- 
- 2. Eureka Video Coordinator <img class="profile-picture" src="FP.jpg">
-  * Led a team of 12 video editors.
-  * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn.
-
 
 ## VFX & Edits
   
