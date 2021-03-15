@@ -32,7 +32,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * Play [Here](https://makra.itch.io/faster-than-light)
  * Made in 7 days for the 2020 Brackeys Game Jam (3nd biggest gamejam on itch with 9k+ participants)
  * Game ranked #71 in Audio category and #132 overall.<br>
-4. Are Ya Winning Son?
+4. Are Ya Winning Son?<img class="profile-picture" src="AYWS.PNG">
  * Play [Here](https://makra.itch.io/are-ya-winning-son)
  * Made in 2 days for the 2020 GMTK Game Jam (Biggest gamejam on itch with 19k+ participants)
  * Game's presentation ranked #221.
