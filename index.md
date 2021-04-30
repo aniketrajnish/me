@@ -125,5 +125,6 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * [Remade Dani's Flash Games in Unity](https://www.youtube.com/playlist?list=PLQi4IKEYBPHUisVkBGx31KaW5VgUB64z2)
  * A [random shitpost game](https://play.google.com/store/apps/details?id=com.makra.KillTheStickMan&hl=en&gl=US) that I made in 15 minutes blew up on play store and is being downloaded by thousands of users everyday.
  * My first unity project was a [FAP Simulator](https://drive.google.com/file/d/14pdEJFl5diFXQK_w2OoOAnTkQGs10Eab/vi) XD
+ * I have over 5k karma on [Reddit](https://www.reddit.com/user/aniketrajnish/?sort=top).
 
 <img src="relatable.jpg">
