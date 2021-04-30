@@ -30,5 +30,7 @@ is_contact: true
 7. [Instagram](https://www.instagram.com/aniketrajnis/)
 8. [DigiS- Instagram](https://www.instagram.com/digis_iitgn/)
 9. [DigiS- Play Store](https://play.google.com/store/apps/developer?id=DigiS+IIT+Gandhinagar)
-10. &nbsp;[Only Fans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+10. &nbsp;[Reddit](https://www.reddit.com/user/aniketrajnish/?sort=top)
+11. &nbsp;[Only Fans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
