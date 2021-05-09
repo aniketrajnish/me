@@ -85,7 +85,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * [Rendering a 4D Hypercube](https://editor.p5js.org/aniketrajnish/sketches/wJVjV9OAY)<br>
    Demonstration of a 3D section of a rotating 4D Hypercube (with hardcoded coordinates) by using rotation and projection matrices as a part of project of the MA202 course at      IITGN. Currently working upon ray marching techinques to expand this technique to render complete 4D worlds in Unity.
  * [A new 3D rendering technique](https://editor.p5js.org/aniketrajnish/sketches/S-KwEmoSm)<br>
-   Mathematically modeled a new 3D rendering technique that uses numerical methods to calculate intersection of planes and render 3D objects as a part of project of the MA202 c    course at IITGN.    
+   Mathematically modeled a new 3D rendering technique that uses numerical methods to calculate intersection of planes and render 3D objects as a part of project of the MA202      course at IITGN.    
 
 ## Simulations
  
