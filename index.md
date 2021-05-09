@@ -78,13 +78,19 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * Everything is streamed online so you only use your data for what you want
  * Try the demo [here](https://play.google.com/store/apps/details?id=com.makra.Holly)
 
+## Computer Graphics
+
+ * [Non Euclidean World in Unity](https://youtu.be/wi1RoQJWHbk)<br>
+   Demonstration of a real-time non-euclidean world I made using Unity. This project can be used in puzzle games based on optical illusion. Inspired by the works of CodeParade.
+ * [Rendering a 4D Hypercube](https://editor.p5js.org/aniketrajnish/sketches/wJVjV9OAY)<br>
+   Demonstration of a 3D section of a rotating 4D Hypercube (with hardcoded coordinates) by using rotation and projection matrices as a part of project of the MA202 course at      IITGN. Currently working upon ray marching techinques to expand this technique to render complete 4D worlds in Unity.
+ * [A new 3D rendering technique](https://editor.p5js.org/aniketrajnish/sketches/S-KwEmoSm)<br>
+   Mathematically modeled a new 3D rendering technique that uses numerical methods to calculate intersection of planes and render 3D objects as a part of project of the MA202 c    course at IITGN.    
+
 ## Simulations
  
  * [Realtime Jelly Simulation in Unity](https://youtu.be/fMwoglpPgFk)<br>
-   This simulation was rendered in real-time using Unity. This Project aims at rendering complex simulations like this in real-time which can take hours to render on a decent      PC.
-  
- * [Non Euclidean World in Unity](https://youtu.be/wi1RoQJWHbk)<br>
-   Demonstration of a real-time non-euclidean world I made using Unity. This project can be used in puzzle games based on optical illusion. Inspired by the works of CodeParade.
+   This simulation was rendered in real-time using Unity. This Project aims at rendering complex simulations like this in real-time which can take hours to render on a decent      PC.  
  
  * [Realtime Slime Simulation in Unity](https://youtu.be/a__DdXiYQ-U)<br>
    2 hours of code, 2 weeks of Fluid Mechanics. Rendered in real-time using Unity.<br>
