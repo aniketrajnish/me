@@ -85,7 +85,9 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * [Rendering a 4D Hypercube](https://editor.p5js.org/aniketrajnish/sketches/wJVjV9OAY)<br>
    Demonstration of a 3D section of a rotating 4D Hypercube (with hardcoded coordinates) by using rotation and projection matrices as a part of project of the MA202 course at      IITGN. Currently working upon ray marching techinques to expand this technique to render complete 4D worlds in Unity.
  * [A new 3D rendering technique](https://editor.p5js.org/aniketrajnish/sketches/S-KwEmoSm)<br>
-   Mathematically modeled a new 3D rendering technique that uses numerical methods to calculate intersection of planes and render 3D objects as a part of project of the MA202      course at IITGN. Currently planning to apply the underlying methodology to the 4th dimension and develop a 4D rendering engine that uses these numerical methods instead of      the traditional approach of using ray marching/ projection and rotation matrices.      
+   Mathematically modeled a new 3D rendering technique that uses numerical methods to calculate intersection of planes and render 3D objects as a part of project of the MA202      course at IITGN. Currently planning to apply the underlying methodology to the 4th dimension and develop a 4D rendering engine that uses these numerical methods instead of      the traditional approach of using ray marching/ projection and rotation matrices.
+ * [raycast 3D renderer](https://scratch.mit.edu/projects/510603211/)<br>
+   A 3D renderer I implemented in scratch that uses the traditional concept of raycasting.
 
 ## Simulations
  
