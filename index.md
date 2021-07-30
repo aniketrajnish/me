@@ -63,7 +63,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
 9. Fertilize.io<img class="profile-picture" src="fert.png">
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.fert) 
  * Made in 2-3 days (I was stepping my shoes into game development that time) to be displayed in some Senate Meeting by our current club secretary. This game also includes a        free open source database that I used to create an online leaderboard completely free (without paying google Play’s hefty 25$ cost)
-10.&nbsp; Banana Warrior<img class="profile-picture" src="White_Lines_R.png">
+10. &nbsp;Banana Warrior<img class="profile-picture" src="White_Lines_R.png">
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.BananaWarrior) 
  * Watch the devlog [here](https://youtu.be/9eCWAQxkuiI)
  
