@@ -30,7 +30,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
   * Led a team of 12 video editors.
   * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn.
  
- 3. Techincal coordinator, IIT Gandhinagar <img class="profile-picture" src="IITGN.jpg">
+ 3. Techincal coordinator, IIT Gandhinagar
   * Leading a team of 10 people to assist the Technical Secretary to conduct the Technical activities held at IITGN efficiently.
   * Overlooking the functioning of all the technical clubs and events.
  
