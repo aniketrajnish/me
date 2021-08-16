@@ -29,6 +29,13 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  2. Eureka Video Coordinator <img class="profile-picture" src="FP.jpg">
   * Led a team of 12 video editors.
   * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn.
+ 
+ 3. Techincal coordinator, IIT Gandhinagar <img class="profile-picture" src="IITGN.jpg">
+  * Leading a team of 10 people to assist the Technical Secretary to conduct the Technical activities held at IITGN efficiently.
+  * Overlooking the functioning of all the technical clubs and events.
+ 
+ 4. Founder / Game Developer, Makra <img class="profile-picture" src="Makra.png">
+  * Developing scalable games in partnership with some of the biggest hypercasual publishers!
 
 ## Games
 
