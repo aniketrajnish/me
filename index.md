@@ -18,7 +18,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
 
  
 ## POR
- 1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/) <img class="profile-picture" src="DigiSLogo.png">
+ 1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/) 
   * Leading a team of 70 game developers in my college. 
   * In the past 6 months, DigiS has become the most active club and the biggest Game Development College club amongst all IITs.
   * We've been the leading Indian game development team in several game jams.
@@ -26,7 +26,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
   * Organized [Game Jam 2020 AD](https://itch.io/jam/gamejam-2020-ad) in collaboration with [Amalthea IIT Gandhinagar](https://www.instagram.com/amalthea_iitgn/). 609 people         participated to make 96 games making it the third biggest Indian game jam to be held on itch.
 
  
- 2. Eureka Video Coordinator <img class="profile-picture" src="FP.jpg">
+ 2. Eureka Video Coordinator
   * Led a team of 12 video editors.
   * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn.
  
@@ -34,29 +34,29 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
   * Leading a team of 10 people to assist the Technical Secretary to conduct the Technical activities held at IITGN efficiently.
   * Overlooking the functioning of all the technical clubs and events.
  
- 4. Founder / Game Developer, Makra <img class="profile-picture" src="Makra.png">
+ 4. Founder / Game Developer, Makra
   * Developing scalable games in partnership with some of the biggest hypercasual publishers!
 
 ## Games
 
-1. Two Opposites<img class="profile-picture" src="TwoOpposites.png">
+1. Two Opposites
  * Play [Here](https://makra.itch.io/two-opposites)
  * Made in 7 days for the 2021 Brackeys Game Jam (2nd biggest gamejam on itch with 10k+ participants)
  * Game ranked #22 in the innovation category, #44 in the Game Design category and #71 overall.
-2. Faster Than Light (Hypercasual)<img class="profile-picture" src="ICON FTL.png">
+2. Faster Than Light (Hypercasual)
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.FasterThanLight)
  * Won the [JAMBOOST](https://gamejam.com/jam/jamboost) game jam hosted by [Chartboost](https://www.linkedin.com/company/chartboost/) and a prize of 1000$
  * Did fairly well in CPI tests.
  * Got 180$ for promotion.
-3. Faster Than Light (PC)<img class="profile-picture" src="FTL.JPG">
+3. Faster Than Light (PC)
  * Play [Here](https://makra.itch.io/faster-than-light)
  * Made in 7 days for the 2020 Brackeys Game Jam (3nd biggest gamejam on itch with 9k+ participants)
  * Game ranked #71 in Audio category and #132 overall.<br>
-4. Are Ya Winning Son?<img class="profile-picture" src="AYWS.PNG">
+4. Are Ya Winning Son?
  * Play [Here](https://makra.itch.io/are-ya-winning-son)
  * Made in 2 days for the 2020 GMTK Game Jam (Biggest gamejam on itch with 19k+ participants)
  * Game's presentation ranked #221.
-5. 2048 Jelly<img class="profile-picture" src="2048j.jpg">
+5. 2048 Jelly
  * Play [Here](https://play.google.com/store/apps/details?id=com.Makra.J2048)
 6. AFPS
  * Leading a team of 25 individuals working on an Indian themed multiplayer game.
@@ -67,13 +67,13 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * Play [Here](https://drive.google.com/a/iitgn.ac.in/file/d/1RTDkU-kCBgqKmpHz13iJLWdAk9BMoVwX/view?usp=drivesdk)
 8. Return To Monke
  * Currently under development under a testing deal by [Kwalee](https://www.kwalee.com/)
-9. Fertilize.io<img class="profile-picture" src="fert.png">
+9. Fertilize.io
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.fert) 
  * Made in 2-3 days (I was stepping my shoes into game development that time) to be displayed in some Senate Meeting by our current club secretary. This game also includes a        free open source database that I used to create an online leaderboard completely free (without paying google Play’s hefty 25$ cost)
-10. &nbsp;Banana Warrior<img class="profile-picture" src="White_Lines_R.png">
+10. &nbsp;Banana Warrior
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.BananaWarrior) 
  * Watch the devlog [here](https://youtu.be/9eCWAQxkuiI)
-11. &nbsp;Doge To The Moon<img class="profile-picture" src="Doge.ico">
+11. &nbsp;Doge To The Moon
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.BananaWarrior) 
  * Made for the [Opera GX GameJam](https://gamejolt.com/c/gamemaker/ogxgj)
  * Watch the devlog [here](https://youtu.be/bzKPQ8AuJ9Q)
@@ -82,7 +82,7 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
 
 ## Project Holly
 
-<img class="profile-picture" src="holly.png">
+
 
  * This project aims at unifying games and movies in ways never done before
  * A platform for completely interactive movies
