@@ -74,9 +74,12 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.BananaWarrior) 
  * Watch the devlog [here](https://youtu.be/9eCWAQxkuiI)
 11. &nbsp;Doge To The Moon
- * Play [Here](https://play.google.com/store/apps/details?id=com.makra.BananaWarrior) 
+ * Play [Here](https://gamejolt.com/games/doge2themoon/636263) 
  * Made for the [Opera GX GameJam](https://gamejolt.com/c/gamemaker/ogxgj)
  * Watch the devlog [here](https://youtu.be/bzKPQ8AuJ9Q)
+ 11. &nbsp;Toilet Spinner
+ * Play [Here](https://play.google.com/store/apps/details?id=com.makra.ToiletSpinner) 
+ * Watch the devlog [here](https://youtu.be/HeaLfiw1AVU)
  
 *Find more games developed by me [here](https://play.google.com/store/apps/developer?id=DigiS+IIT+Gandhinagar), [here](https://makra.itch.io/), and [here](https://play.google.com/store/apps/dev?id=7545721879938982945)*
 
