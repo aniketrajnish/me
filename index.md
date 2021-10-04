@@ -89,9 +89,14 @@ Tools & Technologies | Unity, Adobe Premiere Pro, Adobe After effects, Photoshop
  
 *Find more games developed by me [here](https://play.google.com/store/apps/developer?id=DigiS+IIT+Gandhinagar), [here](https://makra.itch.io/), and [here](https://play.google.com/store/apps/dev?id=7545721879938982945)*
 
+## Crazylabs Partnership (Ongoing)
+
+* The following game prototypes are being developed in partnership with [CrazyLabs](https://www.crazylabs.com/)- 
+
+1. [Shoot The Numbers](https://play.google.com/store/apps/details?id=com.makra.ShootTheNumbers) 
+2. [Body Adjustment ASMR](https://play.google.com/store/apps/details?id=com.makra.BodyAdjustmentASMR)
+
 ## Project Holly
-
-
 
  * This project aims at unifying games and movies in ways never done before
  * A platform for completely interactive movies
