@@ -93,7 +93,7 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
 
 * The following game prototypes are being developed in partnership with [CrazyLabs](https://www.crazylabs.com/)- 
 
-1. [Shoot The Numbers](https://play.google.com/store/apps/details?id=com.makra.ShootTheNumbers) 
+1. [Shoot The Numbers](https://youtu.be/OnMOxLZIVHE) 
 2. [Body Adjustment ASMR](https://youtu.be/lCib1Dg591A)
 3. [Hoof Cleaning ASMR](https://youtu.be/PZkQhBOjrHU)
 
