@@ -11,7 +11,7 @@ I’m a junior undergraduate at IIT Gandhinagar. I’m into developing games, VF
 
 Type | List
 -----|-------|--------
-Languages | C#, C++, HLSL, Python, XML, HTML, CSS, JavaScript
+Languages | C#, C++, HLSL, GLSL, Python, XML
 Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, Photoshop, Blender, Adobe XD, GameMaker Studio 2, MATLAB, Autodesk Inventor
 
 > "If development took 69 lines of code, then fixing the bugs would take 420 more" - William Shakespeare
