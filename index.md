@@ -19,7 +19,8 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
  
 ## POR
  1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/) 
-  * Leading a team of 70 game developers in my college. 
+  * Leading a team of over100 game developers in my college. 
+  * Taught the basics of Unity and Game Development to the freshers.
   * In the past 6 months, DigiS has become the most active club and the biggest Game Development College club amongst all IITs.
   * We've been the leading Indian game development team in several game jams.
   * Organized an AR workshop attended by 300 people from IIT Bombay, IIT Hyderabad & IIT Gandhinagar.
@@ -43,21 +44,33 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
  * Play [Here](https://makra.itch.io/two-opposites)
  * Made in 7 days for the 2021 Brackeys Game Jam (2nd biggest gamejam on itch with 10k+ participants)
  * Game ranked #22 in the innovation category, #44 in the Game Design category and #71 overall.
+ * Programmed every mechanic of the game.
+ * Made my own 2d lighting system from scratch using raycasts. Repo [here](https://pastebin.com/6biXjsUp).
 2. Faster Than Light (Hypercasual)
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.FasterThanLight)
  * Won the [JAMBOOST](https://gamejam.com/jam/jamboost) game jam hosted by [Chartboost](https://www.linkedin.com/company/chartboost/) and a prize of 1000$
  * Did fairly well in CPI tests.
  * Got 180$ for promotion.
+ * Programmed every mechanic & enemy AI of the game.
+ * Looked after the lighting and shaders used in the gamne.
+ * Optimized time control mechanics for the mobile platform.
+ * Learnt how to optimize indoor lighting on mobbile platform
+ * Repo [here](https://github.com/aniketrajnish/FasterThanLight_Hypercasual).
 3. Faster Than Light (PC)
  * Play [Here](https://makra.itch.io/faster-than-light)
  * Made in 7 days for the 2020 Brackeys Game Jam (3nd biggest gamejam on itch with 9k+ participants)
- * Game ranked #71 in Audio category and #132 overall.<br>
+ * Game ranked #71 in Audio category and #132 overall.
+ * Programmed every mechanic & enemy AI of the game.
+ * Looked after the lighting and shaders used in the gamne.
+ * Implemented player physics from scratch that would allow the player to move in space independent of the world's timescale.<br>
 4. Are Ya Winning Son?
  * Play [Here](https://makra.itch.io/are-ya-winning-son)
  * Made in 2 days for the 2020 GMTK Game Jam (Biggest gamejam on itch with 19k+ participants)
  * Game's presentation ranked #221.
+ * Learnt to program small games in Unity in a limited amount of time.
 5. 2048 Jelly
  * Play [Here](https://play.google.com/store/apps/details?id=com.Makra.J2048)
+ * Entire game was made by me using Unity.
 6. AFPS
  * Leading a team of 25 individuals working on an Indian themed multiplayer game.
  * Watch the [teaser](https://youtu.be/pLk2W575Z78)
@@ -65,27 +78,38 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
  * An FPS-shooter pandemic simulator I made.
  * Got the first prize in a game jam hosted by my college.
  * Play [Here](https://drive.google.com/a/iitgn.ac.in/file/d/1RTDkU-kCBgqKmpHz13iJLWdAk9BMoVwX/view?usp=drivesdk)
+ * Made the entire game as a starter project in Unity.
 8. Return To Monke
  * Currently under development under a testing deal by [Kwalee](https://www.kwalee.com/)
  * [Prototype](https://gamejolt.com/games/return2monke/640579) submitted to the IGDAF game jam.
+ * Programmed the entire mechanic of the game in Unity.
+ * Looked after the lighting and shaders used in the gamne.
 9. Fertilize.io
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.fert) 
  * Made in 2-3 days (I was stepping my shoes into game development that time) to be displayed in some Senate Meeting by our current club secretary. This game also includes a        free open source database that I used to create an online leaderboard completely free (without paying google Play’s hefty 25$ cost)
+ * Made this game entirely in Unity as a starter project.
 10. &nbsp;Banana Warrior
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.BananaWarrior) 
  * Watch the devlog [here](https://youtu.be/9eCWAQxkuiI)
+ * Solo developed this game entirely in Unity for the college community to compete in!
 11. &nbsp;Doge To The Moon
  * Play [Here](https://gamejolt.com/games/doge2themoon/636263) 
  * Made for the [Opera GX GameJam](https://gamejolt.com/c/gamemaker/ogxgj)
  * Watch the devlog [here](https://youtu.be/bzKPQ8AuJ9Q)
+ * Wrote the mechanics for this game to learn GMS2.
+ * Repo [here](https://github.com/aniketrajnish/operagx-gamejam-speedrun)
 12. &nbsp;Toilet Spinner
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.ToiletSpinner) 
  * Watch the devlog [here](https://youtu.be/HeaLfiw1AVU)
+ * Solo developed this game in Unity for the college community to compete in!
 13. &nbsp;Obamium Maker
  * Make your own version of Obamium!
  * Try [Here](https://play.google.com/store/apps/details?id=com.makra.ObamiumMaker) 
  * Watch the devlog [here](https://www.youtube.com/watch?v=I6uJLIQS71s)
  * [Source Code](https://github.com/aniketrajnish/obamium-maker)
+14. &nbsp;Chrome Dino Replica
+ * Play [here](https://share.catrob.at/app/project/4babb95a-8629-11eb-a92d-005056a36f47)
+ * Made this to learn Pocket Code - A visual scripting based game development app on android.
  
 *Find more games developed by me [here](https://play.google.com/store/apps/developer?id=DigiS+IIT+Gandhinagar), [here](https://makra.itch.io/), and [here](https://play.google.com/store/apps/dev?id=7545721879938982945)*
 
@@ -122,7 +146,7 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
 ## Simulations
  
  * [Realtime Jelly Simulation in Unity](https://youtu.be/fMwoglpPgFk)<br>
-   This simulation was rendered in real-time using Unity. This Project aims at rendering complex simulations like this in real-time which can take hours to render on a decent      PC.  
+   This simulation was rendered in real-time using Unity. This Project aims at rendering complex simulations like this in real-time which can take hours to render on a decent      PC. Made using spring joints between armatures!  
  
  * [Realtime Slime Simulation in Unity](https://youtu.be/a__DdXiYQ-U)<br>
    2 hours of code, 2 weeks of Fluid Mechanics. Rendered in real-time using Unity.<br>
@@ -131,9 +155,7 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
    Done with the help of one of my club members.
    
  * [Putting my simulations to work - 2048 Jelly](https://youtu.be/9tfnqnrit_0)<br> 
-   This game uses real-time Jelly-Physics that I developed in Unity. Currently, I'm working on optimizing this code and the game for low-end devices (especially mobile devices).
-   Right now, for the cubes to simulate a jelly effortlessly they need around 1.2 million tris each, which is quite resource consuming. Given that by using only 5 of them my PC    (GTX-1050, i5-8250U) could barely hit 60fps. When the game will be optimized enough to run on a high-end mobile device (SD845 or later) then I'll release it. 
-  
+   This game uses real-time Jelly-Physics that I developed in Unity.  
 
 ## VFX & Edits
   
