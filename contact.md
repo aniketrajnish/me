@@ -11,7 +11,7 @@ is_contact: true
 
 ## Mailing Address
 
-> C111, Chimair
+> 405, G Hostel,
 >
 > IITGn, 
 >
