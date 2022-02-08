@@ -25,16 +25,13 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
   * We've been the leading Indian game development team in several game jams.
   * Organized an AR workshop attended by 300 people from IIT Bombay, IIT Hyderabad & IIT Gandhinagar.
   * Organized [Game Jam 2020 AD](https://itch.io/jam/gamejam-2020-ad) in collaboration with [Amalthea IIT Gandhinagar](https://www.instagram.com/amalthea_iitgn/). 609 people         participated to make 96 games making it the third biggest Indian game jam to be held on itch.
-
- 
- 2. Eureka Video Coordinator
-  * Led a team of 12 video editors.
-  * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn.
- 
- 3. Techincal coordinator, IIT Gandhinagar
+  * Organized [Game Jam 2021 AD](https://itch.io/jam/game-jam-2021-ad-420) which turned out to be even bigger than its previous edition
+ 2. Techincal coordinator, IIT Gandhinagar
   * Leading a team of 10 people to assist the Technical Secretary to conduct the Technical activities held at IITGN efficiently.
   * Overlooking the functioning of all the technical clubs and events.
- 
+ 3. Eureka Video Coordinator
+  * Led a team of 12 video editors.
+  * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn. 
  4. Founder / Game Developer, Makra
   * Developing scalable games in partnership with some of the biggest hypercasual publishers!
 
@@ -44,7 +41,7 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
  * Play [Here](https://makra.itch.io/two-opposites)
  * Made in 7 days for the 2021 Brackeys Game Jam (2nd biggest gamejam on itch with 10k+ participants)
  * Game ranked #22 in the innovation category, #44 in the Game Design category and #71 overall.
- * Programmed every mechanic of the game.
+ * Programmed every mechanic of the game (mirror movement, multiple camera setup etc.)
  * Made my own 2d lighting system from scratch using raycasts. Repo [here](https://pastebin.com/6biXjsUp).
 2. Faster Than Light (Hypercasual)
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.FasterThanLight)
@@ -62,6 +59,7 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
  * Game ranked #71 in Audio category and #132 overall.
  * Programmed every mechanic & enemy AI of the game.
  * Looked after the lighting and shaders used in the gamne.
+ * Implemented bullet time mechanics.
  * Implemented player physics from scratch that would allow the player to move in space independent of the world's timescale.<br>
 4. Are Ya Winning Son?
  * Play [Here](https://makra.itch.io/are-ya-winning-son)
@@ -71,6 +69,8 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
 5. 2048 Jelly
  * Play [Here](https://play.google.com/store/apps/details?id=com.Makra.J2048)
  * Entire game was made by me using Unity.
+ * Learnt to optimize realtime lighting for mobile devices.
+ * Learnt to optimize post processing for mobile devices.
 6. AFPS
  * Leading a team of 25 individuals working on an Indian themed multiplayer game.
  * Watch the [teaser](https://youtu.be/pLk2W575Z78)
@@ -79,6 +79,7 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
  * Got the first prize in a game jam hosted by my college.
  * Play [Here](https://drive.google.com/a/iitgn.ac.in/file/d/1RTDkU-kCBgqKmpHz13iJLWdAk9BMoVwX/view?usp=drivesdk)
  * Made the entire game as a starter project in Unity.
+ * Learnt gun mechanics, enemy AI programming and crowd simulation.
 8. Return To Monke
  * Currently under development under a testing deal by [Kwalee](https://www.kwalee.com/)
  * [Prototype](https://gamejolt.com/games/return2monke/640579) submitted to the IGDAF game jam.
@@ -86,8 +87,8 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
  * Looked after the lighting and shaders used in the gamne.
 9. Fertilize.io
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.fert) 
- * Made in 2-3 days (I was stepping my shoes into game development that time) to be displayed in some Senate Meeting by our current club secretary. This game also includes a        free open source database that I used to create an online leaderboard completely free (without paying google Play’s hefty 25$ cost)
- * Made this game entirely in Unity as a starter project.
+ * Made in 2-3 days (I was stepping my shoes into game development that time) to be displayed in some Senate Meeting by our current club secretary. This game also includes a        free open source database that I used to create an online leaderboard completely free (without paying google Play’s 25$ cost)
+ * Made this game entirely in Unity as a starter 2D project.
 10. &nbsp;Banana Warrior
  * Play [Here](https://play.google.com/store/apps/details?id=com.makra.BananaWarrior) 
  * Watch the devlog [here](https://youtu.be/9eCWAQxkuiI)
