@@ -116,13 +116,26 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
 
 ## Crazylabs Partnership (Ongoing)
 
-* The following game prototypes are being developed in partnership with [CrazyLabs](https://www.crazylabs.com/)- 
+* The following game prototypes are being developed in a partnership deal with [CrazyLabs](https://www.crazylabs.com/)- 
 
 1. [Shoot The Numbers](https://youtu.be/OnMOxLZIVHE) 
+   * Optimized multiple navmesh agents for mobile devices.
+   * Wrote a shader that supports both transparency and interpolation between two colours.
+   * Wrote swerve mechanics trending in hypercasual games these days.
+   * Wrote mechanics for algebraic gates trending in hypercasual games these days.
 2. [Body Adjustment ASMR](https://youtu.be/lCib1Dg591A)
+   * Wrote mesh deformation and reformation algorithm.
+   * Wrote a mesh outline algorithm that's performant on mobile devices.
 3. [Hoof Cleaning ASMR](https://youtu.be/PZkQhBOjrHU)
+   * Wrote texture masking algorithm to erase / paint textures over meshes.
 4. [Jelly Cleaner ASMR](https://youtu.be/FnhNXtHPPoE)
+   * Wrote jelly physics algorithms that's performant over mobile devices using spring joints.
 5. [Human Canon](https://youtu.be/XJnFSqy4siI)
+   * Worte ragdoll crowd control mechanics.
+   * Wrote canon projectile mechanics.
+   * Wrote a low poly water shader.
+
+The ideation and developement of these games is done by me. Marketing and publishing side of things is looked over by CrazyLabs. The source code and the build for the games can't be shared publicly as this comes under NDA.
 
 ## Project Holly
 
