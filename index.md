@@ -164,16 +164,15 @@ The ideation and developement of these games is done by me. Marketing and publis
 ## Simulations
  
  * [Realtime Jelly Simulation in Unity](https://youtu.be/fMwoglpPgFk)<br>
-   This simulation was rendered in real-time using Unity. This Project aims at rendering complex simulations like this in real-time which can take hours to render on a decent      PC. Made using spring joints between armatures!  
+   Wrote an optimized jelly physics algorithm that works in realtime on different platforms using spring joints between armatures! 
  
  * [Realtime Slime Simulation in Unity](https://youtu.be/a__DdXiYQ-U)<br>
-   2 hours of code, 2 weeks of Fluid Mechanics. Rendered in real-time using Unity.<br>
-   Disclaimer: Couldn't make it look aesthetically appealing as adding a transparent material with a reflection probe attached to so many particles could have possibly fried my    PC.
+   Similar approach as jelly simulation used but with more spring density to make the mesh look more viscous.
  * [Fire Simulation in Blender](https://youtu.be/_QH19dipOxY)<br> 
    Done with the help of one of my club members.
    
  * [Putting my simulations to work - 2048 Jelly](https://youtu.be/9tfnqnrit_0)<br> 
-   This game uses real-time Jelly-Physics that I developed in Unity.  
+   This game uses real-time Jelly-Physics that I mentioned above.  
 
 ## VFX & Edits
   
