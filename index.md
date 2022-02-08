@@ -19,8 +19,8 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
  
 ## POR
  1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/) 
-  * Leading a team of over100 game developers in my college. 
-  * Taught the basics of Unity and Game Development to the freshers.
+  * Leading a team of over 100 game developers in my college. 
+  * Teaching the basics of Unity and Game Development to the freshers since the last two years by organizing regular workshops and meetings.
   * In the past 6 months, DigiS has become the most active club and the biggest Game Development College club amongst all IITs.
   * We've been the leading Indian game development team in several game jams.
   * Organized an AR workshop attended by 300 people from IIT Bombay, IIT Hyderabad & IIT Gandhinagar.
