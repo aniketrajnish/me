@@ -177,10 +177,10 @@ The ideation and developement of these games is done by me. Marketing and publis
 ## VFX & Edits
   
  * [Messing around with shaders - GameJam 2020 AD Trailer](https://youtu.be/4zfHbw6GRes)<br> 
-   I made this trailer using a custom shader that I wrote for Unity. This shader uses one-sided features of multiple planes to give a non-euclidean look (currently working on a    puzzle-game based project that uses this!).  Also, I wrote a shader to replicate the look of HDRP reflective materials using Unity's built-in render pipeline and a reflection    probe. Added the materials based on these shaders to the mascots and the jar!
+   I made this trailer using a shader that I wrote for Unity. This shader uses one-sided features of multiple planes to give a non-euclidean look (currently working on a    puzzle-game based project that uses this!).  Also, I wrote a shader to replicate the look of HDRP reflective materials using Unity's built-in render pipeline and a reflection    probe. Added the materials based on these shaders to the mascots and the jar!
   
  * [Messing around with VFX Graphs - GameJam 2020 AD Theme Reveal Video](https://youtu.be/kPlAOdrKgbw)<br> 
-   I had to make a theme reveal for a game jam that my college is hosting. So I decided to utilize this opportunity and learn VFX graphs in Unity. VFX graphs help to simulate o    over a million particles in real-time. So everything that you see in this video is made out of '2020', which was the theme for the JAM itself.
+   I had to make a theme reveal for a game jam that my college is hosting. So I decided to utilize this opportunity and learn VFX graphs in Unity. VFX graphs help to simulate o    over a million particles in real-time using the parallel processing power of GPU unlike the paticle system which works over the CPU and is much slower. Everything that you see in this video is made out of '2020', which was the theme for the JAM itself.
   
  * [Messing around with Particle Systems - Psychedelic Edit](https://youtu.be/ofWcNlWYwnI)<br> 
    Because Dani said 'You can make anything using Unity's particle system'
