@@ -146,19 +146,20 @@ The ideation and developement of these games is done by me. Marketing and publis
  * You take control of the protagonist
  * Everything is streamed online so you only use your data for what you want
  * Try the demo [here](https://play.google.com/store/apps/details?id=com.makra.Holly)
+ * Developed an asset that allows one to stream a video in small chunks accroding to his choices.
 
 ## Computer Graphics
 
- * [Non Euclidean World in Unity](https://youtu.be/wi1RoQJWHbk)<br>
-   Demonstration of a real-time non-euclidean world I made using Unity. This project can be used in puzzle games based on optical illusion. Inspired by the works of CodeParade.
+ * [Raymarching Engine](https://github.com/aniketrajnish/Raymarching-Engine)<br>
+   Currently writing a raymarching engine in Unity. This technique allows rendering complex geometry like fractals, n-dimensional objects, volumetric clouds, etc. using very little computation costs by just comping up with a distance function for the surface that we want to render.
  * [Rendering a 4D Hypercube](https://editor.p5js.org/aniketrajnish/sketches/wJVjV9OAY)<br>
    Demonstration of a 3D section of a rotating 4D Hypercube (with hardcoded coordinates) by using rotation and projection matrices as a part of project of the MA202 course at      IITGN. Currently working upon ray marching techinques to expand this technique to render complete 4D worlds in Unity.
  * [A new 3D rendering technique](https://editor.p5js.org/aniketrajnish/sketches/S-KwEmoSm)<br>
    Mathematically modeled a new 3D rendering technique that uses numerical methods to calculate intersection of planes and render 3D objects as a part of project of the MA202      course at IITGN. Currently planning to apply the underlying methodology to the 4th dimension and develop a 4D rendering engine that uses these numerical methods instead of      the traditional approach of using ray marching/ projection and rotation matrices.
  * [Raycast 3D renderer](https://scratch.mit.edu/projects/510603211/)<br>
-   A 3D renderer I implemented in scratch that uses the traditional concept of raycasting.
- * [Raymarching Engine](https://github.com/aniketrajnish/Raymarching-Engine)<br>
-   Currently writing a raymarching engine in Unity.
+   A 3D renderer I implemented in scratch that uses the traditional concept of raycasting used in games like VCOP2 and Wolfenstein 3D.
+ * [Non Euclidean World in Unity](https://youtu.be/wi1RoQJWHbk)<br>
+   Optical illusion made by using multiple intersecting single sided planes instead of a 3d mesh.
 
 ## Simulations
  
