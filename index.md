@@ -152,6 +152,8 @@ The ideation and developement of these games is done by me. Marketing and publis
 
  * [Raymarching Engine](https://github.com/aniketrajnish/Raymarching-Engine)<br>
    Currently writing a raymarching engine in Unity. This technique allows rendering complex geometry like fractals, n-dimensional objects, volumetric clouds, etc. using very little computation costs by just comping up with a distance function for the surface that we want to render.
+ * [Teserract Unity Implementation](https://github.com/aniketrajnish/4D-tesseract-unity-implementation)<br>
+   A rotating hypercube implemented in unity using mesh generation and GL library. Underlying maths includes rotation & projection of coordinates using rotation & projection matrices.
  * [Rendering a 4D Hypercube](https://editor.p5js.org/aniketrajnish/sketches/wJVjV9OAY)<br>
    Demonstration of a 3D section of a rotating 4D Hypercube (with hardcoded coordinates) by using rotation and projection matrices as a part of project of the MA202 course at      IITGN. Currently working upon ray marching techinques to expand this technique to render complete 4D worlds in Unity.
  * [A new 3D rendering technique](https://editor.p5js.org/aniketrajnish/sketches/S-KwEmoSm)<br>
