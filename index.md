@@ -116,7 +116,7 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
 
 ## Crazylabs Partnership (Ongoing)
 
-* The following game prototypes are being developed in a partnership deal with [CrazyLabs](https://www.crazylabs.com/)- 
+* The following game prototypes are being developed in partnership with [CrazyLabs](https://www.crazylabs.com/)- 
 
 1. [Shoot The Numbers](https://youtu.be/OnMOxLZIVHE) 
    * Optimized multiple navmesh agents for mobile devices.
