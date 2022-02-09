@@ -173,6 +173,19 @@ The ideation and developement of these games is done by me. Marketing and publis
  * [Putting my simulations to work - 2048 Jelly](https://youtu.be/9tfnqnrit_0)<br> 
    This game uses real-time Jelly-Physics that I mentioned above.  
 
+## Higher Dimension 
+ 
+ * [Raymarching Engine](https://youtu.be/a__DdXiYQ-U)<br>
+   Currently writing a raymarching engine in Unity primariy to come up with a set of tools that would allow people to visualize and create higher dimensional worlds like they do in a 3D modelling software like Maya, 3ds, blender etc.
+ * [Rendering a 4D Hypercube](https://editor.p5js.org/aniketrajnish/sketches/wJVjV9OAY)<br> 
+   My first project on higher dimension visualisation was demonstration of a 3D section of a rotating 4D Hypercube by using rotation and projection matrices
+   
+ * [Teserract Unity Implementationy](https://github.com/aniketrajnish/4D-tesseract-unity-implementation)<br> 
+   A rotating hypercube implemented in unity using mesh generation and GL library.
+   
+ * [4D Hypercube NFT Marketplace](https://opensea.io/collection/4d-hypercubes)<br>
+   Created a NFT collection of 4D hypercubes rotating along different axes.  
+
 ## VFX & Edits
   
  * [Messing around with shaders - GameJam 2020 AD Trailer](https://youtu.be/4zfHbw6GRes)<br> 
