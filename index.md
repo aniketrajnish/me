@@ -46,13 +46,13 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
  * Did fairly well in CPI tests.
  * Got 180$ for promotion.
  * Programmed every mechanic & enemy AI of the game.
- * Looked after the lighting and shaders used in the gamne.
+ * Looked after the lighting and shaders used in the game.
  * Optimized time control mechanics for the mobile platform.
- * Learnt how to optimize indoor lighting on mobbile platform
+ * Learnt how to optimize indoor lighting on mobile platform
  * Repo [here](https://github.com/aniketrajnish/FasterThanLight_Hypercasual).
 3. Faster Than Light (PC)
  * Play [Here](https://makra.itch.io/faster-than-light)
- * Made in 7 days for the 2020 Brackeys Game Jam (3nd biggest gamejam on itch with 9k+ participants)
+ * Made in 7 days for the 2020 Brackeys Game Jam (3rd biggest gamejam on itch with 9k+ participants)
  * Game ranked #71 in Audio category and #132 overall.
  * Programmed every mechanic & enemy AI of the game.
  * Looked after the lighting and shaders used in the gamne.
@@ -153,12 +153,12 @@ The ideation and developement of these games is done by me. Marketing and publis
    A rotating hypercube implemented in unity using mesh generation and GL library. Underlying maths includes rotation & projection of coordinates using rotation & projection matrices.
  * [Rendering a 4D Hypercube](https://editor.p5js.org/aniketrajnish/sketches/wJVjV9OAY)<br>
    Demonstration of a 3D section of a rotating 4D Hypercube (with hardcoded coordinates) by using rotation and projection matrices as a part of project of the MA202 course at      IITGN. Currently working upon ray marching techinques to expand this technique to render complete 4D worlds in Unity.
- * [A new 3D rendering technique](https://editor.p5js.org/aniketrajnish/sketches/S-KwEmoSm)<br>
-   Mathematically modeled a new 3D rendering technique that uses numerical methods to calculate intersection of planes and render 3D objects as a part of project of the MA202      course at IITGN. Currently planning to apply the underlying methodology to the 4th dimension and develop a 4D rendering engine that uses these numerical methods instead of      the traditional approach of using ray marching/ projection and rotation matrices.
+ * [3D Render using Gaussian elimination](https://editor.p5js.org/aniketrajnish/sketches/S-KwEmoSm)<br>
+   Mathematically modeled a 3D rendering technique that uses numerical methods to calculate the intersection of planes and render 3D objects as a part of a project of the MA202      course at IITGN. Currently planning to apply the underlying methodology to the 4th dimension and develop a 4D rendering engine that uses these numerical methods instead of      the traditional approach of using ray marching/ projection and rotation matrices.
  * [Raycast 3D renderer](https://scratch.mit.edu/projects/510603211/)<br>
    A 3D renderer I implemented in scratch that uses the traditional concept of raycasting used in games like VCOP2 and Wolfenstein 3D.
  * [Non Euclidean World in Unity](https://youtu.be/wi1RoQJWHbk)<br>
-   Optical illusion made by using multiple intersecting single sided planes instead of a 3d mesh.
+   Optical illusion made by using multiple intersecting single-sided planes instead of a 3d mesh.
 
 ## Simulations
  
@@ -192,7 +192,7 @@ The ideation and developement of these games is done by me. Marketing and publis
    I made this trailer using a shader that I wrote for Unity. This shader uses one-sided features of multiple planes to give a non-euclidean look (currently working on a    puzzle-game based project that uses this!).  Also, I wrote a shader to replicate the look of HDRP reflective materials using Unity's built-in render pipeline and a reflection    probe. Added the materials based on these shaders to the mascots and the jar!
   
  * [Messing around with VFX Graphs - GameJam 2020 AD Theme Reveal Video](https://youtu.be/kPlAOdrKgbw)<br> 
-   I had to make a theme reveal for a game jam that my college is hosting. So I decided to utilize this opportunity and learn VFX graphs in Unity. VFX graphs help to simulate o    over a million particles in real-time using the parallel processing power of GPU unlike the paticle system which works over the CPU and is much slower. Everything that you see in this video is made out of '2020', which was the theme for the JAM itself.
+   I had to make a theme reveal for a game jam that my college is hosting. So I decided to utilize this opportunity and learn VFX graphs in Unity. VFX graphs help to simulate over a million particles in real-time using the parallel processing power of GPU unlike the paticle system which works over the CPU and is much slower. Everything that you see in this video is made out of '2020', which was the theme for the JAM itself.
   
  * [Messing around with Particle Systems - Psychedelic Edit](https://youtu.be/ofWcNlWYwnI)<br> 
    Because Dani said 'You can make anything using Unity's particle system'
