@@ -16,7 +16,8 @@ sass:
 nav:
  - name: "About"
    link: "/me/" 
+ - name: "Resume"
+   link: "Aniket Rajnish - Resume.pdf"
  - name: "Contact"
    link: "contact"
-  - name: "Resume"
-   link: "Aniket Rajnish - Resume.pdf"
+ 
