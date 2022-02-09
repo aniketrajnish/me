@@ -13,9 +13,6 @@ Type | List
 -----|-------|--------
 Languages | C#, C++, HLSL, GLSL, Python, XML
 Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, Photoshop, Blender, Adobe XD, GameMaker Studio 2, MATLAB, Autodesk Inventor
-
-> "If development took 69 lines of code, then fixing the bugs would take 420 more" - William Shakespeare
-
  
 ## POR
  1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/) 
@@ -193,7 +190,8 @@ The ideation and developement of these games is done by me. Marketing and publis
  * [Recreated Interstellar's Black Hole](https://youtu.be/pGvQrE8Plsc)<br> 
    With 0 budget, blender and the help of my senior.<br><br>
    *Fun Fact: Most of the trailers and intro videos for societies, events & fests of IITGn are made on game Engines instead of dedicated editing softwares as it is done by us.*
-  
+
+> "If development took 69 lines of code, then fixing the bugs would take 420 more" - William Shakespeare
 
 ## Misc
  * Love playing [games](https://www.youtube.com/playlist?list=PLQi4IKEYBPHWsrbZpf24op7APre8zRwzH) as much as I love making them.
