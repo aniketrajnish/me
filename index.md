@@ -177,7 +177,7 @@ The ideation and developement of these games is done by me. Marketing and publis
  
  * [Raymarching Engine](https://youtu.be/a__DdXiYQ-U)<br>
    Currently writing a raymarching engine in Unity primariy to come up with a set of tools that would allow people to visualize and create higher dimensional worlds like they do in a 3D modelling software like Maya, 3ds, blender etc.
- * [Rendering a 4D Hypercube](https://editor.p5js.org/aniketrajnish/sketches/wJVjV9OAY)<br> 
+ * [Rendering a 4D Hypercube](https://github.com/aniketrajnish/4d-rendering-ma202-project)<br> 
    My first project on higher dimension visualisation was demonstration of a 3D section of a rotating 4D Hypercube by using rotation and projection matrices
    
  * [Teserract Unity Implementationy](https://github.com/aniketrajnish/4D-tesseract-unity-implementation)<br> 
