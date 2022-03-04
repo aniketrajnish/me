@@ -131,6 +131,9 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
    * Worte ragdoll crowd control mechanics.
    * Wrote canon projectile mechanics.
    * Wrote a low poly water shader.
+6. [Dodge Master](https://youtu.be/6OCS70rkZJk)
+   * Wrote time control mechnaics.
+   * Implemented mesh deformation and reformation algorithm from Body Adjustment ASMR.
 
 The ideation and developement of these games is done by me. Marketing and publishing side of things is looked over by CrazyLabs. The source code and the build for the games can't be shared publicly as this comes under NDA.
 
