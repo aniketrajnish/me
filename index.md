@@ -158,6 +158,8 @@ The ideation and developement of these games is done by me. Marketing and publis
    Demonstration of a 3D section of a rotating 4D Hypercube (with hardcoded coordinates) by using rotation and projection matrices as a part of project of the MA202 course at      IITGN. Currently working upon ray marching techinques to expand this technique to render complete 4D worlds in Unity.
  * [3D Render using Gaussian elimination](https://editor.p5js.org/aniketrajnish/sketches/S-KwEmoSm)<br>
    Mathematically modeled a 3D rendering technique that uses numerical methods to calculate the intersection of planes and render 3D objects as a part of a project of the MA202      course at IITGN. Currently planning to apply the underlying methodology to the 4th dimension and develop a 4D rendering engine that uses these numerical methods instead of      the traditional approach of using ray marching/ projection and rotation matrices.
+ * [Specular lighting in OpenGL](https://github.com/aniketrajnish/specular-lighting-opengl)<br>
+   Implemented specular ligting in OpenGL by following tutorials from [Michael Grieco](https://michaelg29.github.io/)
  * [Raycast 3D renderer](https://scratch.mit.edu/projects/510603211/)<br>
    A 3D renderer I implemented in scratch that uses the traditional concept of raycasting used in games like VCOP2 and Wolfenstein 3D.
  * [Non Euclidean World in Unity](https://youtu.be/wi1RoQJWHbk)<br>
