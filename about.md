@@ -2,7 +2,7 @@
 layout: default
 is_contact: true
 ---
-Technical Secretary | Student Council
+Technical Secretary | Student Council <br>
 Indian Institute of Technology Gandhinagar
 
 * Email: [aniket.r@iitgn.ac.in](mailto:aniket.r@iitgn.ac.in)
