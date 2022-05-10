@@ -178,18 +178,14 @@ The ideation and developement of these games is done by me. Marketing and publis
  * [Putting my simulations to work - 2048 Jelly](https://youtu.be/9tfnqnrit_0)<br> 
    This game uses real-time Jelly-Physics that I mentioned above.  
 
-## Higher Dimension 
+## Relevant Coursework
  
- * [Raymarching Engine](https://youtu.be/a__DdXiYQ-U)<br>
-   Currently writing a raymarching engine in Unity primariy to come up with a set of tools that would allow people to visualize and create higher dimensional worlds like they do in a 3D modelling software like Maya, 3ds, blender etc.
- * [Rendering a 4D Hypercube](https://github.com/aniketrajnish/4d-rendering-ma202-project)<br> 
-   My first project on higher dimension visualisation was demonstration of a 3D section of a rotating 4D Hypercube by using rotation and projection matrices
-   
- * [Teserract Unity Implementationy](https://github.com/aniketrajnish/4D-tesseract-unity-implementation)<br> 
-   A rotating hypercube implemented in unity using mesh generation and GL library.
-   
- * [4D Hypercube NFT Marketplace](https://opensea.io/collection/4d-hypercubes)<br>
-   Created a NFT collection of 4D hypercubes rotating along different axes.  
+ 1. [DES 492 - 1](https://docs.google.com/document/d/1x0Ong7Herwsmf828lOB-8RwccJlR9PEl/edit?usp=sharing&ouid=101872699639981619068&rtpof=true&sd=true)<br>
+   The course involved modding a pre-existing game, developing a sandbox-styled game, speculation of different permutations & combinations of different outcomes of the game, and development of a hypertext game with a non-linear branching story.
+   * [Modding Assignment - Maze Game made 3D](https://github.com/aniketrajnish/DES-492-Modding-Project)
+   * [Sandbox & Speculation Assignment - Joined Together](https://github.com/aniketrajnish/DES-492-Sandbox-and-Speculation)
+   * [Hypertext Assignment - Friday Hai](https://github.com/aniketrajnish/DES-492-Hypertext-Game)
+
 
 ## VFX & Edits
   
