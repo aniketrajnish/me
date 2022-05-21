@@ -15,10 +15,10 @@ Languages | C#, C++, HLSL, GLSL, Python, XML
 Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, Photoshop, Blender, Adobe XD, GameMaker Studio 2, MATLAB, Autodesk Inventor
 
 ## Experience 
- 1. Game Developer, Crazylabs
+ 1. Game Developer, [Crazylabs](https://www.crazylabs.com/)
   * Contracting as a partner game studio to help create scalable hypercasual games by looking after their ideation and development.
   * The games developed are listed [here](https://aniketrajnish.github.io/me/#crazylabs-partnership-ongoing).
- 2. Technical Design intern, University of Central Florida
+ 2. Technical Design intern, [FIEA, University of Central Florida](https://fiea.ucf.edu/)
   * Assisting the 19SOB team at FIEA with their capstone project as a tech designer under the guidance of Prof. Ron Weaver.
   * The development update to the game can be found [here](https://www.youtube.com/watch?v=_rE0V_wvqPY).
   
