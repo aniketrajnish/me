@@ -13,7 +13,15 @@ Type | List
 -----|-------|--------
 Languages | C#, C++, HLSL, GLSL, Python, XML
 Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, Photoshop, Blender, Adobe XD, GameMaker Studio 2, MATLAB, Autodesk Inventor
- 
+
+## Experience 
+ 1. Game Developer, Crazylabs
+  * Contracting as a partner game studio to help create scalable hypercasual games by looking after their ideation and development.
+  * The games developed are listed [here](https://aniketrajnish.github.io/me/#crazylabs-partnership-ongoing).
+ 2. Technical Design intern, University of Central Florida
+  * Assisting the 19SOB team at FIEA with their capstone project as a tech designer under the guidance of Prof. Ron Weaver.
+  * The development update to the game can be found [here](https://www.youtube.com/watch?v=_rE0V_wvqPY).
+  
 ## POR
  1. Secretary, [DigiS IIT Gandhinagar](https://www.instagram.com/digis_iitgn/) 
   * Leading a team of over 100 game developers in my college. 
@@ -29,12 +37,6 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
  3. Eureka Video Coordinator
   * Led a team of 12 video editors.
   * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn. 
- 4. Game Developer, Crazylabs
-  * Contracting as a partner game studio to help create scalable hypercasual games by looking after their ideation and development.
-  * The games developed are listed [here](https://aniketrajnish.github.io/me/#crazylabs-partnership-ongoing).
- 5. Technical Design intern, University of Central Florida
-  * Assisting the 19SOB team at FIEA with their capstone project as a tech designer under the guidance of Prof. Ron Weaver.
-  * The development update to the game can be found [here](https://www.youtube.com/watch?v=_rE0V_wvqPY).
 
 ## Games
 
