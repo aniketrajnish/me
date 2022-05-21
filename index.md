@@ -29,8 +29,12 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, P
  3. Eureka Video Coordinator
   * Led a team of 12 video editors.
   * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn. 
- 4. Founder / Game Developer, Makra
-  * Developing scalable games in partnership with some of the biggest hypercasual publishers!
+ 4. Game Developer, Crazylabs
+  * Contracting as a partner game studio to help create scalable hypercasual games by looking after their ideation and development.
+  * The games developed are listed [here](https://aniketrajnish.github.io/me/#crazylabs-partnership-ongoing).
+ 5. Technical Design intern, University of Central Florida
+  * Assiting the 19SOB team at FIEA with their capstone project as a tech designer under the guidance of Prof. Ron Weaver.
+  * The developement update to the game can be found [here](https://www.youtube.com/watch?v=_rE0V_wvqPY).
 
 ## Games
 
