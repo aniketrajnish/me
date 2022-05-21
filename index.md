@@ -12,7 +12,7 @@ I’m a junior undergraduate at IIT Gandhinagar. I’m into developing games, VF
 Type | List
 -----|-------|--------
 Languages | C#, C++, HLSL, GLSL, Python, XML
-Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Adobe After effects, Photoshop, Blender, Adobe XD, GameMaker Studio 2, MATLAB, Autodesk Inventor
+Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Unreal Engine, Adobe After effects, Photoshop, Blender, Adobe XD, GameMaker Studio 2, MATLAB, Autodesk Inventor
 
 ## Experience 
  1. Game Developer, [Crazylabs](https://www.crazylabs.com/)
