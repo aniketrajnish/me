@@ -18,8 +18,8 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Unreal Engine 4, Adobe
  1. Game Developer, [Crazylabs](https://www.crazylabs.com/)
   * Contracting as a partner game studio to help create scalable hypercasual games by looking after their ideation and development.
   * The games developed are listed [here](https://aniketrajnish.github.io/me/#crazylabs-partnership-ongoing).
- 2. Technical Design intern, [FIEA, University of Central Florida](https://fiea.ucf.edu/)
-  * Assisting the 19SOB team at FIEA with their capstone project as a tech designer under the guidance of Prof. Ron Weaver.
+ 2. Technical Art intern, [FIEA, University of Central Florida](https://fiea.ucf.edu/)
+  * Assisting the [19SOB](https://www.19soulsonboard.com/about) team at FIEA with their capstone project as a tech artost under the guidance of Prof. Ron Weaver & Prof. Chris Roda.
   * The development update to the game can be found [here](https://www.youtube.com/watch?v=_rE0V_wvqPY).
   
 ## POR
