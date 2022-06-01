@@ -126,7 +126,7 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Unreal Engine 4, Adobe
    * Wrote a shader that supports both transparency and interpolation between two colours.
    * Wrote swerve mechanics trending in hypercasual games these days.
    * Wrote mechanics for algebraic gates trending in hypercasual games these days.
-2. [Body Adjustment ASMR](https://youtu.be/lCib1Dg591A)
+2. [Body Adjustment ASMR](https://youtu.be/tipcHr53JcI)
    * Wrote mesh deformation and reformation algorithm.
    * Wrote a mesh outline algorithm that's performant on mobile devices.
 3. [Hoof Cleaning ASMR](https://youtu.be/PZkQhBOjrHU)
