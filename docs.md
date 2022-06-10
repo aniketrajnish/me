@@ -4,13 +4,13 @@ layout: default
 ## Design & Development Documents
 
 ## Games
-1. [Soul Shard]()
-2. [Two Opposites]()
-3. [Faster Than Light - Hypercasual]()
-4. [Faster Than Light - PC]()
-5. [Are Ya Winning Son?]()
-6. [Shoot The Numbers]()
-7. [Body Adjustment ASMR]()
+1. [Soul Shard](https://aniketrajnish.github.io/me/docs/soulshard)
+2. [Two Opposites](https://aniketrajnish.github.io/me/docs/twoopposites)
+3. [Faster Than Light - Hypercasual](https://aniketrajnish.github.io/me/docs/ftlhc)
+4. [Faster Than Light - PC](https://aniketrajnish.github.io/me/docs/ftlpc)
+5. [Are Ya Winning Son?](https://aniketrajnish.github.io/me/docs/ayws)
+6. [Shoot The Numbers](https://aniketrajnish.github.io/me/docs/stn)
+7. [Body Adjustment ASMR](https://aniketrajnish.github.io/me/docs/baasmr)
 8. [Hoof Cleaning ASMR]()
 9. [Jelly Cleaner ASMR]()
 10. &nbsp;[Human Canon]()
