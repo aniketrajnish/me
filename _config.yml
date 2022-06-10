@@ -20,4 +20,6 @@ nav:
    link: "Aniket Rajnish - CV.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Docs"
+   link: "docs"
  
