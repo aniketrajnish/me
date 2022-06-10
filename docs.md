@@ -41,7 +41,7 @@ layout: default
 ## Edits
 1. [Non Euclidean Shader - GameJam 2020 AD Trailer]()
 2. [VFX Graph - GameJam 2020 AD Theme Reveal Video]()
-3. [Motion Tracking - Recreated Coldplay’s Up&Up Music Video]
+3. [Motion Tracking - Recreated Coldplay’s Up&Up Music Video]()
 
 
 
