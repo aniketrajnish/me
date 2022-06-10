@@ -19,7 +19,7 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Unreal Engine 4, Adobe
   * Contracting as a partner game studio to help create scalable hypercasual games by looking after their ideation and development.
   * The games developed are listed [here](https://aniketrajnish.github.io/me/#crazylabs-partnership-ongoing).
  2. Technical Art intern, [FIEA, University of Central Florida](https://fiea.ucf.edu/)
-  * Assisting the [19SOB](https://www.19soulsonboard.com/about) team at FIEA with their capstone project as a tech artost under the guidance of Prof. Ron Weaver & Prof. Chris Roda.
+  * Assisting the [19SOB](https://www.19soulsonboard.com/about) team at FIEA with their capstone project as a tech artist under the guidance of Prof. Ron Weaver & Prof. Chris Roda.
   * The development update to the game can be found [here](https://www.youtube.com/watch?v=_rE0V_wvqPY).
   
 ## POR
@@ -38,7 +38,7 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Unreal Engine 4, Adobe
   * Led a team of 12 video editors.
   * Made the [Foundation Programme Video](https://youtu.be/SLwEwTwHNhM) of Btech'19, IITGn. 
 
-## Games
+## Games (Personal Projects)
 
 1. Two Opposites
  * Play [Here](https://makra.itch.io/two-opposites)
@@ -117,7 +117,14 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Unreal Engine 4, Adobe
  
 *Find more games developed by me [here](https://play.google.com/store/apps/developer?id=DigiS+IIT+Gandhinagar), [here](https://makra.itch.io/), and [here](https://play.google.com/store/apps/dev?id=7545721879938982945)*
 
-## Crazylabs Partnership (Ongoing)
+## UCF FIEA Internship (Ongoing)
+* Assisting the [19SOB](https://www.19soulsonboard.com/about) team at FIEA (University of Central Florida) with their capstone project as a tech artist.
+* Became competent with the workflow principles followed in Unreal Engine (Materials, Lighting & Reflections, Blueprinting, Niagara, Landscape sculpting, Post Processing, Quixel).
+* Developed a dynamic footprint system for main characters.
+* Developed VFX effects like stylized fire & flames, smoke, debris & flames using the inbuilt Niagara system.
+* The development update to the project can be found [here](https://www.youtube.com/watch?v=_rE0V_wvqPY).
+
+## Crazylabs Partnership
 
 * The following game prototypes are being developed in partnership with [CrazyLabs](https://www.crazylabs.com/)- 
 
