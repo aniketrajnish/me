@@ -25,7 +25,7 @@ layout: default
 19. &nbsp;[Toilet Spinner](https://aniketrajnish.github.io/me/docs/toiletspin)
 20. &nbsp;[Obamium Maker](https://aniketrajnish.github.io/me/docs/obama)
 21. &nbsp;[Chrome Dino Replica](https://aniketrajnish.github.io/me/docs/e404)
-22. &nbsp;[Remaking Dani's Games](https://aniketrajnish.github.io/me/docs/baasmr)
+22. &nbsp;[Remaking Dani's Games](https://aniketrajnish.github.io/me/docs/daniremake)
 
 ## Projects
 1. [Raymarching Engine](https://aniketrajnish.github.io/me/docs/raymarch)
