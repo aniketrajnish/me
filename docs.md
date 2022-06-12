@@ -17,7 +17,7 @@ layout: default
 11. &nbsp;[Dodge Master](https://aniketrajnish.github.io/me/docs/dodge)
 12. &nbsp;[Evolve and Deliver](https://aniketrajnish.github.io/me/docs/end)
 13. &nbsp;[2048 Jelly](https://aniketrajnish.github.io/me/docs/j2048)
-14. &nbsp;[Covid 19 Survival Royale](https://aniketrajnish.github.io/me/docs/c19asmr)
+14. &nbsp;[Covid 19 Survival Royale](https://aniketrajnish.github.io/me/docs/c19sr)
 15. &nbsp;[Return To Monke](https://aniketrajnish.github.io/me/docs/r2m)
 16. &nbsp;[Fertilize.io](https://aniketrajnish.github.io/me/docs/fert)
 17. &nbsp;[Bananna Warrior](https://aniketrajnish.github.io/me/docs/bw)
