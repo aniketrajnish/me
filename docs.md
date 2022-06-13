@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Design & Development Documents
-*This section of the website is under development
+*This section of the website is under development*
 ## Games
 1. [Soul Shard](https://aniketrajnish.github.io/me/docs/soulshard)
 2. [Two Opposites](https://aniketrajnish.github.io/me/docs/twoopposites)
