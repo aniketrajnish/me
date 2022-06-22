@@ -123,6 +123,7 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Unreal Engine 4, Adobe
 * Developed a dynamic footprint system for main characters.
 * Developed VFX effects like stylized fire & flames, smoke, debris & flames using the inbuilt Niagara system.
 * Developed a dynamic snowstorm system.
+* Implemented rope physics for cables.
 * The development update to the project can be found [here](https://www.youtube.com/watch?v=cN4vf7va254).
 
 ## Crazylabs Partnership
