@@ -122,6 +122,7 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Unreal Engine 4, Adobe
 * Became competent with the workflow principles followed in Unreal Engine (Materials, Lighting & Reflections, Blueprinting, Niagara, Landscape sculpting, Post Processing, Quixel).
 * Developed a dynamic footprint system for main characters.
 * Developed VFX effects like stylized fire & flames, smoke, debris & flames using the inbuilt Niagara system.
+* Developed a dynamic snowstorm system.
 * The development update to the project can be found [here](https://www.youtube.com/watch?v=cN4vf7va254).
 
 ## Crazylabs Partnership
