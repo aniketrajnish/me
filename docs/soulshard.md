@@ -86,4 +86,4 @@ Few other variations of the smoke system <br>
     <td>Puff system</td>
  </tr>
 </table> <br>
-*The gifs are sized properly, zoom in to see them clearly
+*The gifs are sized properly, zoom in to see them clearly*
