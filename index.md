@@ -233,4 +233,4 @@ The ideation and developement of these games is done by me. Marketing and publis
  * My first unity project was a [FAP Simulator](https://drive.google.com/file/d/14pdEJFl5diFXQK_w2OoOAnTkQGs10Eab/vi) XD
  * I have over 10k karma on [Reddit](https://www.reddit.com/user/aniketrajnish/?sort=top).
 
-<img src="relatable.jpg">
+<img src="files/relatable.jpg">
