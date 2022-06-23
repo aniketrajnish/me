@@ -26,6 +26,10 @@ Firstly, I designed various cloud textures with separate RGB channels for Base C
 <img src="https://aniketrajnish.github.io/me/files/CloudRGB.png" style="width:100%">
 
 ### Smoke Material
-The smoke material was make using textures. <br><br> 
+The smoke material was made using these textures. The emmisivity and particle colors were exposed to edit while making the particles. <br><br> 
 <img src="https://aniketrajnish.github.io/me/files/CloudMat.png" style="width:100%">
+
+### Smoke Particles - 1st iteration
+<img src="https://aniketrajnish.github.io/me/files/Smoke1.gif" style="width:100%">
+
 
