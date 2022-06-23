@@ -33,7 +33,13 @@ The smoke material was made using these textures. The emmisivity and particle co
 * The smoke particles were made using the Niagara VFX system. 
 * The particles (100) were made to spawn in a burst around a cylinder with an initial velocity radially outwards. 
 * A positive gravitational force was added to make the particles rise with a drag coefficient to smooth things out and make them feel natural. 
-* The color (exposed parameter) was lerped between grey and black and rotation was added to individual particles aswell. <br>
+* The color (exposed parameter) was lerped between grey and black and rotation was added to individual particles aswell. <br><br>
 <img src="https://aniketrajnish.github.io/me/files/Smoke1.gif" style="width:100%">
+
+### Smoke Particles - 2nd iteration
+* A light renderer was added to the particles to provide more definition to the explosion.
+* The light renderer was intitited at the same intial position as the smoke particles.
+* The intensity was lerped from 100 to 0.  <br><br>
+<img src="https://aniketrajnish.github.io/me/files/Smoke2.gif" style="width:100%">
 
 
