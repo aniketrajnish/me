@@ -17,7 +17,7 @@ Tools & Technologies | Unity, OpenGL, Adobe Premiere Pro, Unreal Engine 4, Adobe
 ## Experience 
  1. Game Developer, [Crazylabs](https://www.crazylabs.com/)
   * Contracting as a partner game studio to help create scalable hypercasual games by looking after their ideation and development.
-  * The games developed are listed [here](https://aniketrajnish.github.io/me/#crazylabs-partnership-ongoing).
+  * The games developed are listed [here](https://aniketrajnish.github.io/me/#crazylabs-partnership).
   * The concept pitches delivered are listed [here](https://aniketrajnish.github.io/me/docs/#concept-pitches).
  2. Technical Art intern, [FIEA, University of Central Florida](https://fiea.ucf.edu/)
   * Assisting the [19SOB](https://www.19soulsonboard.com/about) team at FIEA with their capstone project as a tech artist under the guidance of Prof. Ron Weaver & Prof. Chris Roda.
