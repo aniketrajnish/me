@@ -59,7 +59,7 @@ The debris material was made using the debris texture in a similar fashion to th
 
 ### Spark Texture
 The spark texture with separate RGB channels was obtained online. <br><br>
-<img src="https://aniketrajnish.github.io/me/files/Spark.png" style="width:50%">
+<img src="https://aniketrajnish.github.io/me/files/Spark.png" style="width:100%">
 
 ### Spark Material
 * The spark material was made using the spark texture. 
