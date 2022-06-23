@@ -6,18 +6,11 @@ layout: default
 Soul Shard is a cooperative puzzle platformer that takes inspiration from EA's 'It Takes Two'. It is being developed by [19 Souls on Board](https://www.19soulsonboard.com/about), a team of 19 student developers from Cohort 18 at the Florida Interactive Entertainment Academy on the downtown campus of the University of Central Florida. I'm assisting the team as a technical artist this summer.
 * The development update to the game can be viewed [here](https://www.youtube.com/watch?v=cN4vf7va254). 
 * The repository containing my contributions to the project can be found [here](https://github.com/19SOB/ucf-fiea-19sob-capstone-project-temp).
-<div>
-  <img src="https://aniketrajnish.github.io/me/files/SoulShard.png" style="width:15vw; margin-right:1vw">
-  <img src="https://aniketrajnish.github.io/me/files/SoulShard.png" style="width:15vw">
-</div>
-<div>
-  <p style="width:15vw; margin-right:1vw">Roobenchod</p>
-  <p style="width:15vw">Roobenchod</p>
-</div>
+
 <table border="0">
  <tr>
-    <td><img src="https://aniketrajnish.github.io/me/files/SoulShard.png" style="width:15vw; margin-right:1vw"></td>
-    <td><img src="https://aniketrajnish.github.io/me/files/SoulShard.png" style="width:15vw; margin-right:1vw"></td>
+    <td><img src="https://aniketrajnish.github.io/me/files/SoulShard.png" style="width:15vw"></td>
+    <td><img src="https://aniketrajnish.github.io/me/files/19SOB.png" style="width:15vw"></td>
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
