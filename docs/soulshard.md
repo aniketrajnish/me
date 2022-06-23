@@ -26,7 +26,8 @@ Firstly, I designed various cloud textures with separate RGB channels for Base C
 <img src="https://aniketrajnish.github.io/me/files/CloudRGB.png" style="width:100%">
 
 ### Smoke Material
-The smoke material was made using these textures. The emmisivity and particle colors were exposed to edit while making the particles. <br><br> 
+* The smoke material was made using these textures. 
+* The emmisivity and particle colors were exposed to edit while making the particles. <br><br> 
 <img src="https://aniketrajnish.github.io/me/files/CloudMat.png" style="width:100%">
 
 ### Smoke Particles - 1st iteration
@@ -55,6 +56,17 @@ The debris material was made using the debris texture in a similar fashion to th
 * Since the debris appeared lighter, the drag was reduced and gravitional force (positive) was increased to increase the spread.
 * Apart from that, a fountain emmiter was assigned the same debris material to make the spread look more abrupt.  <br><br>
 <img src="https://aniketrajnish.github.io/me/files/Smoke3.gif" style="width:100%">
+
+### Spark Texture
+The spark texture with separate RGB channels was obtained online. <br><br>
+<img src="https://aniketrajnish.github.io/me/files/Spark.png" style="width:50%">
+
+### Spark Material
+* The spark material was made using the spark texture. 
+* The blue channel was used as the opacity mask.
+* The emmisive color was obtained by multiplying red and yellow. <br><br>
+<img src="https://aniketrajnish.github.io/me/files/SparkMat.png" style="width:100%">
+
 
 
 
