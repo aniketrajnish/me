@@ -13,12 +13,12 @@ Soul Shard is a cooperative puzzle platformer that takes inspiration from EA's '
     <td><img src="https://aniketrajnish.github.io/me/files/19SOB.png" style="width:15vw"></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>Soul Shard Poster</td>
+    <td>19 Souls on Board Logo</td>
  </tr>
 </table>
 
 ### Smoke Particles
-My first task was to design and develop a stylized explosive smoke particles for various machinery and explosions in the game. The basic idea was to develop a working prototype and then refine it in the iterative design process.
+My first task was to design and develop a stylized explosive smoke system for various machinery and explosions in the game. The basic idea was to develop a working prototype and then refine it in the iterative design process.
 
 ### 1st Iteration
