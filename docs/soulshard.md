@@ -85,4 +85,5 @@ Few other variations of the smoke system <br>
     <td>Debris only system</td>
     <td>Puff system</td>
  </tr>
-</table>
+</table> <br>
+*The gifs are sized properly, zoom in to see them clearly
