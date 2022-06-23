@@ -17,7 +17,7 @@ nav:
  - name: "About"
    link: "/me/" 
  - name: "CV"
-   link: "Aniket Rajnish - CV.pdf"
+   link: "files/Aniket Rajnish - CV.pdf"
  - name: "Contact"
    link: "contact"
  - name: "Docs"
