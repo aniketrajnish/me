@@ -52,9 +52,9 @@ The debris material was made using the debris texture in a similar fashion to th
 <img src="https://aniketrajnish.github.io/me/files/DebrisMat.png" style="width:100%">
 
 ### Smoke Particles - 3rd iteration
-* The debris material was given the same parameters as the smoke particle.
-* Since the debris appeared lighter, the drag was reduced and gravitional force (positive) was increased to increase the spread.
-* Apart from that, a fountain emmiter was assigned the same debris material to make the spread look more abrupt.  <br><br>
+* The debris particle was given the same parameters as the smoke particle.
+* Since the debris appeared lighter, the drag was reduced and gravitational force (positive) was increased to increase the spread.
+* Apart from that, a fountain emitter was assigned the same debris material to make the spread look more abrupt.  <br><br>
 <img src="https://aniketrajnish.github.io/me/files/Smoke3.gif" style="width:100%">
 
 ### Spark Texture
@@ -67,6 +67,6 @@ The spark texture with separate RGB channels was obtained online. <br><br>
 * The emmisive color was obtained by multiplying red and yellow. <br><br>
 <img src="https://aniketrajnish.github.io/me/files/SparkMat.png" style="width:100%">
 
-
-
-
+### Smoke Particles - 4th iteration
+* The spark particles were given the same parameter as the debris particle, i.e. a higher spread emitter and a fountain emitter.  <br><br>
+<img src="https://aniketrajnish.github.io/me/files/Smoke4.gif" style="width:100%">
