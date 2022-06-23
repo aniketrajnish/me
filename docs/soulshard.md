@@ -18,9 +18,9 @@ Soul Shard is a cooperative puzzle platformer that takes inspiration from EA's '
  </tr>
 </table>
 
-### Smoke Particles
+## Smoke Particles
 My first task was to design and develop a stylized explosive smoke particles for various machinery and explosions in the game. The basic idea was to develop a working prototype and then refine it in the iterative design process.
 
-### The smoke clouds
+#### The smoke clouds
 Firstly, I designed various clouds with separate RGB channels for Base Color, Emmisivity and Opacity Mask.
 <img src="https://aniketrajnish.github.io/me/files/CloudRGB.png" style="width:100vw">
