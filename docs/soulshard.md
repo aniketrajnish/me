@@ -78,9 +78,11 @@ Few other variations of the smoke system <br>
  <tr>
     <td><img src="https://aniketrajnish.github.io/me/files/Smoke5.gif" style="width:50%"></td>
     <td><img src="https://aniketrajnish.github.io/me/files/Smoke6.gif" style="width:50%"></td>
+    <td><img src="https://aniketrajnish.github.io/me/files/Smoke7.gif" style="width:50%"></td>  
  </tr>
  <tr>
     <td>Less stylized system</td>
     <td>Debris only system</td>
+    <td>Puff system</td>
  </tr>
 </table>
