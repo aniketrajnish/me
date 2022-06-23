@@ -44,6 +44,6 @@ layout: default
 3. [Motion Tracking - Recreated Coldplay’s Up&Up Music Video](https://aniketrajnish.github.io/me/docs/upnup)
 
 ## Concept Art
-1. [Rainbow Driver](files/Rainbow%Driver.pdf)
+1. [Rainbow Driver](files/RainbowDriver.pdf)
 
 
