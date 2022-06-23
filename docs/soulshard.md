@@ -9,8 +9,8 @@ Soul Shard is a cooperative puzzle platformer that takes inspiration from EA's '
 
 <table border="0">
  <tr>
-    <td><img src="https://aniketrajnish.github.io/me/files/SoulShard.png" style="width:15vw"></td>
-    <td><img src="https://aniketrajnish.github.io/me/files/19SOB.png" style="width:15vw"></td>
+    <td><img src="https://aniketrajnish.github.io/me/files/SoulShard.png" style="width:100%"></td>
+    <td><img src="https://aniketrajnish.github.io/me/files/19SOB.png" style="width:100%"></td>
  </tr>
  <tr>
     <td>Soul Shard Poster</td>
@@ -18,7 +18,12 @@ Soul Shard is a cooperative puzzle platformer that takes inspiration from EA's '
  </tr>
 </table>
 
-### Smoke Particles
-My first task was to design and develop a stylized explosive smoke system for various machinery and explosions in the game. The basic idea was to develop a working prototype and then refine it in the iterative design process.
+## Smoke Particles
+My first task was to design and develop a stylized explosive smoke particles for various machinery and explosions in the game. The basic idea was to develop a working prototype and then refine it in the iterative design process.
 
-### 1st Iteration
+### Smoke clouds
+Firstly, I designed various clouds with separate RGB channels for Base Color, Emmisivity and Opacity Mask. <br><br>
+<img src="https://aniketrajnish.github.io/me/files/CloudRGB.png" style="width:100%">
+
+### Smoke Material
+
