@@ -23,6 +23,6 @@ My first task was to design and develop a stylized explosive smoke particles for
 
 ### The smoke clouds
 Firstly, I designed various clouds with separate RGB channels for Base Color, Emmisivity and Opacity Mask. <br><br>
-<img src="https://aniketrajnish.github.io/me/files/CloudRGB.png" style="width:50%">
+<img src="https://aniketrajnish.github.io/me/files/CloudRGB.png" style="width:90%">
 
 ### The smoke clouds
