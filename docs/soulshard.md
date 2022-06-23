@@ -7,13 +7,13 @@ Soul Shard is a cooperative puzzle platformer that takes inspiration from EA's '
 * The development update to the game can be viewed [here](https://www.youtube.com/watch?v=cN4vf7va254). 
 * The repository containing my contributions to the project can be found [here](https://github.com/19SOB/ucf-fiea-19sob-capstone-project-temp).
 <div>
-<img src="https://aniketrajnish.github.io/me/files/SoulShard.png" style="width:15vw; margin-right:1vw">
-<img src="https://aniketrajnish.github.io/me/files/SoulShard.png" style="width:15vw">
+  <img src="https://aniketrajnish.github.io/me/files/SoulShard.png" style="width:15vw; margin-right:1vw">
+  <img src="https://aniketrajnish.github.io/me/files/SoulShard.png" style="width:15vw">
 </div>
-<div>
+<span>
   <p style="width:15vw; margin-right:1vw">Roobenchod</p>
   <p style="width:15vw">Roobenchod</p>
-</div>
+</span>
 
 ### Smoke Particles
 My first task was to design and develop a stylized explosive smoke particles for various machinery and explosions in the game. The basic idea was to develop a working prototype and then refine it in the iterative design process.
