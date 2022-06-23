@@ -9,8 +9,8 @@ Soul Shard is a cooperative puzzle platformer that takes inspiration from EA's '
 
 <table border="0">
  <tr>
-    <td><img src="https://aniketrajnish.github.io/me/files/SoulShard.png" style="width:15%"></td>
-    <td><img src="https://aniketrajnish.github.io/me/files/19SOB.png" style="width:15%"></td>
+    <td><img src="https://aniketrajnish.github.io/me/files/SoulShard.png" style="width:45%"></td>
+    <td><img src="https://aniketrajnish.github.io/me/files/19SOB.png" style="width:45%"></td>
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
