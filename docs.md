@@ -70,6 +70,8 @@ layout: default
 24. [Crowd Balancer](files/CrowdBalancer.pdf)
 25. [Freeze N Breeze](files/FreezeNBreeze.pdf)
 26. [Tilt Paint](files/TiltPaint.pdf)
+27. [Color My Bullet](files/ColorMyBullet.pdf)
+28. [Body Crack ASMR](files/BodyCrackASMR.pdf)
 
 
 
