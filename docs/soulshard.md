@@ -30,7 +30,7 @@ The smoke material was made using these textures. The emmisivity and particle co
 <img src="https://aniketrajnish.github.io/me/files/CloudMat.png" style="width:100%">
 
 ### Smoke Particles - 1st iteration
-The smoke particles were made using the Niagara VFX system. The particles (100) were made to spawn in a burst around a cylinder with an initial velocity radially outwards. A positive gravitational force was added to make the particles rise with a drag coefficient to smooth things out and make them feel natural. The color (exposed parameter) was lerped between grey and black and rotation was added to individual particles aswell.
+The smoke particles were made using the Niagara VFX system. The particles (100) were made to spawn in a burst around a cylinder with an initial velocity radially outwards. A positive gravitational force was added to make the particles rise with a drag coefficient to smooth things out and make them feel natural. The color (exposed parameter) was lerped between grey and black and rotation was added to individual particles aswell. <br><br>
 <img src="https://aniketrajnish.github.io/me/files/Smoke1.gif" style="width:100%">
 
 
