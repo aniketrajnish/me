@@ -70,3 +70,17 @@ The spark texture with separate RGB channels was obtained online. <br><br>
 ### Smoke Particles - 4th iteration
 * The spark particles were given the same parameter as the debris particle, i.e. a higher spread emitter and a fountain emitter.  <br><br>
 <img src="https://aniketrajnish.github.io/me/files/Smoke4.gif" style="width:100%">
+
+### Other Variations
+Few other variations of the smoke system <br>
+
+<table border="0">
+ <tr>
+    <td><img src="https://aniketrajnish.github.io/me/files/Smoke5.gif" style="width:50%"></td>
+    <td><img src="https://aniketrajnish.github.io/me/files/Smoke6.gif" style="width:50%"></td>
+ </tr>
+ <tr>
+    <td>Less stylized system</td>
+    <td>Debris only system</td>
+ </tr>
+</table>
