@@ -23,7 +23,7 @@ My first task was to design and develop a stylized explosive smoke particles for
 
 ### Cloud Texture
 Firstly, I designed various cloud textures with separate RGB channels for Base Color, Emmisivity and Opacity Mask. <br><br>
-<img src="https://aniketrajnish.github.io/me/files/CloudRGB.png" style="width:100%">
+<img src="https://aniketrajnish.github.io/me/files/CloudRGB.png" style="width:50%">
 
 ### Smoke Material
 * The smoke material was made using these textures. 
