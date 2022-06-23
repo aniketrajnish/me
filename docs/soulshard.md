@@ -18,10 +18,10 @@ Soul Shard is a cooperative puzzle platformer that takes inspiration from EA's '
  </tr>
 </table>
 
-## Smoke Particles
+## Smoke System
 My first task was to design and develop a stylized explosive smoke particles for various machinery and explosions in the game. The basic idea was to develop a working prototype and then refine it in the iterative design process.
 
-### Smoke clouds
+### Cloud Texture
 Firstly, I designed various cloud textures with separate RGB channels for Base Color, Emmisivity and Opacity Mask. <br><br>
 <img src="https://aniketrajnish.github.io/me/files/CloudRGB.png" style="width:100%">
 
@@ -41,5 +41,20 @@ The smoke material was made using these textures. The emmisivity and particle co
 * The light renderer was intitited at the same intial position as the smoke particles.
 * The intensity was lerped from 100 to 0.  <br><br>
 <img src="https://aniketrajnish.github.io/me/files/Smoke2.gif" style="width:100%">
+
+### Debris Texture
+The debris texture was made in photoshop using refrence images online and the brush tool. <br><br>
+<img src="https://aniketrajnish.github.io/me/files/DebrisTex.png" style="width:100%">
+
+### Debris Material
+The debris material was made using the debris texture in a similar fashion to the smoke material. <br><br>
+<img src="https://aniketrajnish.github.io/me/files/DebrisMat.png" style="width:100%">
+
+### Smoke Particles - 3rd iteration
+* The debris material was given the same parameters as the smoke particle.
+* Since the debris appeared lighter, the drag was reduced and gravitional force (positive) was increased to increase the spread.
+* Apart from that, a fountain emmiter was assigned the same debris material to make the spread look more abrupt.  <br><br>
+<img src="https://aniketrajnish.github.io/me/files/Smoke3.gif" style="width:100%">
+
 
 
