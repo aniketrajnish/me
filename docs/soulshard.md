@@ -76,9 +76,9 @@ Few other variations of the smoke system <br>
 
 <table border="0">
  <tr>
-    <td><img src="https://aniketrajnish.github.io/me/files/Smoke5.gif" style="width:50%"></td>
-    <td><img src="https://aniketrajnish.github.io/me/files/Smoke6.gif" style="width:50%"></td>
-    <td><img src="https://aniketrajnish.github.io/me/files/Smoke7.gif" style="width:50%"></td>  
+    <td><img src="https://aniketrajnish.github.io/me/files/Smoke5.gif" style="width:100%"></td>
+    <td><img src="https://aniketrajnish.github.io/me/files/Smoke6.gif" style="width:100%"></td>
+    <td><img src="https://aniketrajnish.github.io/me/files/Smoke7.gif" style="width:190%"></td>  
  </tr>
  <tr>
     <td>Less stylized system</td>
