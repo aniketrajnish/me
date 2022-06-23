@@ -235,4 +235,4 @@ The ideation and developement of these games is done by me. Marketing and publis
  * I have over 10k karma on [Reddit](https://www.reddit.com/user/aniketrajnish/?sort=top).
 
 <img src="files/relatable.jpg">
-<img src="files/SoulShard.png">
+<img src="/files/SoulShard.png">
