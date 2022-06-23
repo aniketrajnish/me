@@ -39,11 +39,11 @@ layout: default
 9. [Slime Simulation - Unity](https://aniketrajnish.github.io/me/docs/slime)
 
 ## Edits
-1. [Non Euclidean Shader - GameJam 2020 AD Trailer](docs/nes)
-2. [VFX Graph - GameJam 2020 AD Theme Reveal Video](docs/vfxgraph)
-3. [Motion Tracking - Recreated Coldplay’s Up&Up Music Video](docs/upnup)
+1. [Non Euclidean Shader - GameJam 2020 AD Trailer](https://aniketrajnish.github.io/me/docs/nes)
+2. [VFX Graph - GameJam 2020 AD Theme Reveal Video](https://aniketrajnish.github.io/me/docs/vfxgraph)
+3. [Motion Tracking - Recreated Coldplay’s Up&Up Music Video](https://aniketrajnish.github.io/me/docs/upnup)
 
 ## Concept Art
-1. [Rainbow Driver](files/)
+1. [Rainbow Driver](files/Rainbow%Driver.pdf)
 
 
