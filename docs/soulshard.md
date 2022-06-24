@@ -102,3 +102,9 @@ A stylized noise texture was created to serve as the opacity mask for the flame 
 * A RadialGradientExponential (with texture coordinate as input) was subtracted from the mask to prevent square edges.
 * The tiling, erosion & color of the material were exposed as dynamic parameters to be controlled by the Niagara system.
 <img src="https://aniketrajnish.github.io/me/files/FlameMat.gif" style="width:100%">
+
+### Flame Particles - 1st iteration
+* The structure of the flame system was mostly done while making the material itself.
+* The sprites were spawned in a circular grid with different rotations to give a 3D look.
+* The color was lerped between yellow and red.
+<img src="https://aniketrajnish.github.io/me/files/FlameVFX.gif" style="width:100%">
