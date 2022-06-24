@@ -124,3 +124,6 @@ The flame material was created simply by assigning the particle color input to t
 * They're scaled down in size as they reach up to give an inverted conical shape by using bezier curves to keep the transition smooth.
 * The color is lerped between yellow and red with the lifetime of the particle. <br><br>
 <img src="https://aniketrajnish.github.io/me/files/FlameVFX2.gif" style="width:100%">
+
+## Footprint System
+My next task was to develop a footprint system over snow for Ambrose and Nimue. 
