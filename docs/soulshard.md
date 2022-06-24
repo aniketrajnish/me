@@ -67,7 +67,7 @@ The spark texture with separate RGB channels was obtained online. <br><br>
 * The emmisive color was obtained by multiplying red and yellow. <br><br>
 <img src="https://aniketrajnish.github.io/me/files/SparkMat.png" style="width:100%">
 
-### Smoke Particles - 4th iteration
+### Smoke Particles - Final iteration
 * The spark particles were given the same parameter as the debris particle, i.e. a higher spread emitter and a fountain emitter.  <br><br>
 <img src="https://aniketrajnish.github.io/me/files/Smoke4.gif" style="width:100%">
 
@@ -87,3 +87,18 @@ Few other variations of the smoke system <br>
  </tr>
 </table>
 *The gifs are sized properly, zoom in to see them clearly*
+
+## Flame system
+My next task was to come up with flame systems for different purposes like burning coal, chimneys, explosion, etc.
+
+### Noise Texture
+A stylized noise texture was created to serve as the opacity mask for the flame material. <br><br>
+<img src="https://aniketrajnish.github.io/me/files/NoiseTex.png" style="width:100%">
+
+### Flame Material
+* Parametrically controlled texture coordinate was masked to obtain a controllable gradient. The value is clamped between 0 and 1 to prevent excessive bleeding.
+* The noise texture was added to give fire-like shape to the mask.
+* The UV map of the texture was given a panner (with texture coordinate as input) to animate it as if the fire was burning.
+* A RadialGradientExponential (with texture coordinate as input) was subtracted from the mask to prevent square edges.
+* The tiling, erosion & color of the material were exposed as dynamic parameters to be controlled by the Niagara system.
+<img src="https://aniketrajnish.github.io/me/files/FlameMat.gif" style="width:100%">
