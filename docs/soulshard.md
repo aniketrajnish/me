@@ -106,5 +106,5 @@ A stylized noise texture was created to serve as the opacity mask for the flame 
 ### Flame Particles - 1st iteration
 * The structure of the flame system was mostly done while making the material itself.
 * The sprites were spawned in a circular grid with different rotations to give a 3D look.
-* The color was lerped between yellow and red.
+* The color was lerped between yellow and red. <br><br>
 <img src="https://aniketrajnish.github.io/me/files/FlameVFX.gif" style="width:100%">
