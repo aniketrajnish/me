@@ -230,3 +230,6 @@ I was suggested by the team that the current footprint didn't look natural as sn
  </tr>
 </table>
 *Footprint Normals*
+
+### Footprint Material - Final iteration
+
