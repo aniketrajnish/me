@@ -237,3 +237,15 @@ The footprint material was now modified to support normal information and the no
 
 ### Final Output
 <img src="https://aniketrajnish.github.io/me/files/FP2.gif" style="width:100%">
+
+## Snowstorm System
+My next task was to design and develop a snowstorm system for the yard area. I was provided with a [reference video](https://www.shutterstock.com/video/clip-1058627680-dense-heavy-blizzard-snowstorm-vfx-insert-slow-motion) for the same.
+
+## Snow Particles
+* I found this task quite easy and felt that simply a fountain emitter with the default particle renderer would do the trick.
+* So, I created a fountain emitter and inverted its initial velocity to make the particles fall downwards instead of upwards. 
+* The particles were made to spawn around a big sphere.
+* The trajectory cone's apex angle was increased aswell to increase the spread of the particles.
+* The gravity was decreased and drag was increased to make the snowfall appear more natural. <br><br>
+<img src="https://aniketrajnish.github.io/me/files/Snow1.gif" style="width:100%">
+
