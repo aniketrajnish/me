@@ -126,4 +126,34 @@ The flame material was created simply by assigning the particle color input to t
 <img src="https://aniketrajnish.github.io/me/files/FlameVFX2.gif" style="width:100%">
 
 ## Footprint System
-My next task was to develop a footprint system over snow for Ambrose and Nimue. 
+Further I was assigned the task to develop a snow-based footprint system over snow for the main characters (Ambrose and Nimue).  
+
+### Footprint Sprites - 1st iteration
+* I used a snow texture I found online to make the footprint sprites.
+* The foot impressions of the right foot of both the characters were traced using the pen tool and the texture was masked to make the footprint sprites.
+* The left footprint sprite was simply made by inverting the image horizontally.
+
+<table border="0">
+ <tr>
+    <td><img src="https://aniketrajnish.github.io/me/files/AmbroseFI.png" style="width:100%"></td>
+    <td><img src="https://aniketrajnish.github.io/me/files/NimueFI.png" style="width:100%"></td>
+ </tr>
+ <tr>
+    <td>Ambrose Foot Impression</td>
+    <td>Nimue Foot Impression</td>
+ </tr>
+</table>
+*Foot Impressions* <br>
+
+<table border="0">
+ <tr>
+    <td><img src="https://aniketrajnish.github.io/me/files/AmbroseFPS1.png" style="width:100%"></td>
+    <td><img src="https://aniketrajnish.github.io/me/files/NimueFPS1.png" style="width:100%"></td>
+ </tr>
+ <tr>
+    <td>Ambrose Footprint Sprite</td>
+    <td>Nimue Footprint Sprite</td>
+ </tr>
+</table>
+*Footprint Sprites*
+
