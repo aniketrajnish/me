@@ -133,7 +133,6 @@ Further I was assigned the task to develop a snow-based footprint system over sn
 * The foot impressions of the right foot of both the characters were traced using the pen tool and the texture was masked to make the footprint sprites.
 * The left footprint sprite was simply made by inverting the image horizontally.
 
-*Foot Impressions*
 <table border="0">
  <tr>
     <td><img src="https://aniketrajnish.github.io/me/files/AmbroseFI.png" style="width:100%"></td>
@@ -144,8 +143,9 @@ Further I was assigned the task to develop a snow-based footprint system over sn
     <td>Nimue Foot Impression</td>
  </tr>
 </table>
+*Foot Impressions*
 
-*Footprint Sprites*
+
 <table border="0">
  <tr>
     <td><img src="https://aniketrajnish.github.io/me/files/AmbroseFPS1.png" style="width:100%"></td>
@@ -156,5 +156,22 @@ Further I was assigned the task to develop a snow-based footprint system over sn
     <td>Nimue Footprint Sprite</td>
  </tr>
 </table>
+*Footprint Sprites*
 
+### Footprint Material - 1st iteration 
+* The material used for the footprints was a deferred decal material with blending mode set to translucent to be able to use it as a decal.
+* The alpha of the texture/sprite was assigned to the opacity of the material and the RGB values to the base color.
+<img src="https://aniketrajnish.github.io/me/files/FPMat1.png" style="width:100%">
 
+### Footprint Blueprint
+* An actor blueprint is created for both left and right footprints.
+* A decal facing downwards with the footprint material is added as the child to the DefaultSceneRoot.
+* The decal is made to fade away gradually after 5 seconds.
+<img src="https://aniketrajnish.github.io/me/files/FPBP.png" style="width:100%">
+
+### Adding to the third person blueprint
+* I used the default third person character provided by Unreal to playtest the footprints.
+* In the TPC blueprint, planes are added as a child of the mesh and respective foot as the parent socket so that it snaps perfectly with the foot's movement.
+* The planes are rendered as invisible (hidden in game), events are prevented from overlapping, and collisions are disabled as they're just meant for spawn refrence to the footprints.
+<img src="https://aniketrajnish.github.io/me/files/TPBP.png" style="width:100%">
+* 
