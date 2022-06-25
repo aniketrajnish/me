@@ -174,4 +174,20 @@ Further I was assigned the task to develop a snow-based footprint system over sn
 * In the TPC blueprint, planes are added as a child of the mesh and respective foot as the parent socket so that it snaps perfectly with the foot's movement.
 * The planes are rendered as invisible (hidden in game), events are prevented from overlapping, and collisions are disabled as they're just meant for spawn refrence to the footprints.
 <img src="https://aniketrajnish.github.io/me/files/TPBP.png" style="width:100%">
-* 
+
+### Animation Notifier
+* Animation notifiers are added for each footprint to spawn at appropriate time in the running animation.
+* In the third person animation blueprint's event graph, a character reference is set and casted to the third person character as the blueprint awakes.
+
+<table border="0">
+ <tr>
+    <td><img src="https://aniketrajnish.github.io/me/files/AnimNoti.gif" style="width:100%"></td>
+    <td><img src="https://aniketrajnish.github.io/me/files/TPAnimBP.png" style="width:100%"></td>
+ </tr>
+ <tr>
+    <td>Adding run animation notifier</td>
+    <td>Third person animation event graph</td>
+ </tr>
+</table>
+### TPC blueprint event graph
+
