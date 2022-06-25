@@ -171,18 +171,18 @@ Further I was assigned the task to develop a snow-based footprint system over sn
 
 ### Adding to the third person blueprint
 * I used the default third person character provided by Unreal to playtest the footprints.
-* In the TPC blueprint, planes are added as a child of the mesh and respective foot as the parent socket so that it snaps perfectly with the foot's movement.
+* In the TPC blueprint, planes are added as a child of the mesh and the respective foot as the parent socket so that it snaps perfectly with the foot's movement.
 * The planes are rendered as invisible (hidden in game), events are prevented from overlapping, and collisions are disabled as they're just meant for spawn refrence to the footprints. <br><br>
 <img src="https://aniketrajnish.github.io/me/files/TPBP.png" style="width:100%">
 
 ### Animation Notifier
-* Animation notifiers are added for each footprint to spawn at appropriate time in the running animation.
-* In the third person animation blueprint's event graph, a character reference is set and casted to the third person character as the blueprint awakes.
+* Animation notifiers are added for each footprint to spawn at the appropriate time in the running animation.
+* In the third person animation blueprint's event graph, a character reference is set and cast to the third person character as the blueprint awakes.
 * In the third person character blueprint's event graph, two new custom events are introduced to spawn the footprints.
 * The event is meant to spawn an actor from the footprint class we created earlier. 
-* The foot refrence is assigned to the spawn location. 
-* The actor rotation is assigned to the the spawn rotation.
-* The spwan scale was decided after playtesting.
+* The foot reference is assigned to the spawn location. 
+* The actor rotation is assigned to the spawn rotation.
+* The spawn scale was decided after playtesting.
 * The custom events are assigned to the animation notifier in the third person animation blueprint's event graph.
 
 <table border="0">
