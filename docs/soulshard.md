@@ -178,16 +178,26 @@ Further I was assigned the task to develop a snow-based footprint system over sn
 ### Animation Notifier
 * Animation notifiers are added for each footprint to spawn at appropriate time in the running animation.
 * In the third person animation blueprint's event graph, a character reference is set and casted to the third person character as the blueprint awakes.
+* In the third person character blueprint's event graph, two new custom events are introduced to spawn the footprints.
+* The event is meant to spawn an actor from the footprint class we created earlier. 
+* The foot refrence is assigned to the spawn location. 
+* The actor rotation is assigned to the the spawn rotation.
+* The spwan scale was decided after playtesting.
+* The custom events are assigned to the animation notifier in the third person animation blueprint's event graph.
 
 <table border="0">
  <tr>
     <td><img src="https://aniketrajnish.github.io/me/files/AnimNoti.gif" style="width:100%"></td>
     <td><img src="https://aniketrajnish.github.io/me/files/TPAnimBP.png" style="width:100%"></td>
+    <td><img src="https://aniketrajnish.github.io/me/files/TPCharBP.png" style="width:100%"></td>
  </tr>
  <tr>
     <td>Adding run animation notifier</td>
     <td>Third person animation event graph</td>
+    <td>Third person character event graph</td>
  </tr>
 </table>
-### TPC blueprint event graph
+*The images are sized properly, zoom in to see them clearly*
+
+
 
