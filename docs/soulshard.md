@@ -198,6 +198,6 @@ Further I was assigned the task to develop a snow-based footprint system over sn
  </tr>
 </table>
 *The images are sized properly, zoom in to see them clearly*
-
+<img src="https://aniketrajnish.github.io/me/files/FP1.gif" style="width:100%">
 
 
