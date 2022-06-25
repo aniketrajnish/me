@@ -100,7 +100,7 @@ A stylized noise texture was created to serve as the opacity mask for the flame 
 * The noise texture was added to give fire-like shape to the mask.
 * The UV map of the texture was given a panner (with texture coordinate as input) to animate it as if the fire was burning.
 * A RadialGradientExponential (with texture coordinate as input) was subtracted from the mask to prevent square edges.
-* The tiling, erosion & color of the material were exposed as dynamic parameters to be controlled by the Niagara system.
+* The tiling, erosion & color of the material were exposed as dynamic parameters to be controlled by the Niagara system. <br><br>
 <img src="https://aniketrajnish.github.io/me/files/FlameMat.gif" style="width:100%">
 
 ### Flame Particles - 1st iteration
@@ -160,19 +160,19 @@ Further I was assigned the task to develop a snow-based footprint system over sn
 
 ### Footprint Material - 1st iteration 
 * The material used for the footprints was a deferred decal material with blending mode set to translucent to be able to use it as a decal.
-* The alpha of the texture/sprite was assigned to the opacity of the material and the RGB values to the base color.
+* The alpha of the texture/sprite was assigned to the opacity of the material and the RGB values to the base color. <br><br>
 <img src="https://aniketrajnish.github.io/me/files/FPMat1.png" style="width:100%">
 
 ### Footprint Blueprint
 * An actor blueprint is created for both left and right footprints.
 * A decal facing downwards with the footprint material is added as the child to the DefaultSceneRoot.
-* The decal is made to fade away gradually after 5 seconds.
+* The decal is made to fade away gradually after 5 seconds. <br><br>
 <img src="https://aniketrajnish.github.io/me/files/FPBP.png" style="width:100%">
 
 ### Adding to the third person blueprint
 * I used the default third person character provided by Unreal to playtest the footprints.
 * In the TPC blueprint, planes are added as a child of the mesh and respective foot as the parent socket so that it snaps perfectly with the foot's movement.
-* The planes are rendered as invisible (hidden in game), events are prevented from overlapping, and collisions are disabled as they're just meant for spawn refrence to the footprints.
+* The planes are rendered as invisible (hidden in game), events are prevented from overlapping, and collisions are disabled as they're just meant for spawn refrence to the footprints. <br><br>
 <img src="https://aniketrajnish.github.io/me/files/TPBP.png" style="width:100%">
 
 ### Animation Notifier
