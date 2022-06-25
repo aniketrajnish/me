@@ -233,4 +233,4 @@ I was suggested by the team that the current footprint didn't look natural as sn
 
 ### Footprint Material - Final iteration
 The footprint material was now modified to support normal information and the noraml map textures generated were assigned.
-<img src="https://aniketrajnish.github.io/me/files/FPMatN2.png" style="width:100%">
+<img src="https://aniketrajnish.github.io/me/files/FPMat2.png" style="width:100%">
