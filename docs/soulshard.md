@@ -202,35 +202,3 @@ Further I was assigned the task to develop a snow-based footprint system over sn
 ### Final Output - 1st iteration
 <img src="https://aniketrajnish.github.io/me/files/FP1.gif" style="width:100%">
 
-### Footprint Sprites - Final iteration
-I was suggested by the team that the current footprint didn't look natural as snow footprints are generally a litte darker (dark grey/blue) with blue tint on the edges. Apart from this, they suggested to add normal information to the footprints aswell.
-* I decreased the exposure of the textures, added bluish tint on the edges using the brush (Chalk 2) tool.
-* Furthur, I generated the normals using the inbuilt 3D tools provided in Photoshop. (which turned out to be one of my laggiest workflow experiences with Photoshop).
-
-<table border="0">
- <tr>
-    <td><img src="https://aniketrajnish.github.io/me/files/AmbroseFPS2.png" style="width:100%"></td>
-    <td><img src="https://aniketrajnish.github.io/me/files/NimueFPS2.png" style="width:100%"></td>
- </tr>
- <tr>
-    <td>New Ambrose footprint texture</td>
-    <td>New Nimue footprint texture</td>
- </tr>
-</table>
-*Footprint Textures/Sprites*
-
-<table border="0">
- <tr>
-    <td><img src="https://aniketrajnish.github.io/me/files/AmbroseFPN.png" style="width:100%"></td>
-    <td><img src="https://aniketrajnish.github.io/me/files/NimueFPN.png" style="width:100%"></td>
- </tr>
- <tr>
-    <td>Ambrose footprint normal</td>
-    <td>Nimue footprint normal</td>
- </tr>
-</table>
-*Footprint Normals*
-
-### Footprint Material - Final iteration
-The footprint material was now modified to support normal information and the noraml map textures generated were assigned.
-<img src="https://aniketrajnish.github.io/me/files/FPMatN2.png" style="width:100%">
