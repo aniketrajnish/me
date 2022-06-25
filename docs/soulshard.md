@@ -133,6 +133,7 @@ Further I was assigned the task to develop a snow-based footprint system over sn
 * The foot impressions of the right foot of both the characters were traced using the pen tool and the texture was masked to make the footprint sprites.
 * The left footprint sprite was simply made by inverting the image horizontally.
 
+*Foot Impressions*
 <table border="0">
  <tr>
     <td><img src="https://aniketrajnish.github.io/me/files/AmbroseFI.png" style="width:100%"></td>
@@ -143,8 +144,8 @@ Further I was assigned the task to develop a snow-based footprint system over sn
     <td>Nimue Foot Impression</td>
  </tr>
 </table>
-*Foot Impressions* <br>
 
+*Footprint Sprites*
 <table border="0">
  <tr>
     <td><img src="https://aniketrajnish.github.io/me/files/AmbroseFPS1.png" style="width:100%"></td>
@@ -155,5 +156,5 @@ Further I was assigned the task to develop a snow-based footprint system over sn
     <td>Nimue Footprint Sprite</td>
  </tr>
 </table>
-*Footprint Sprites*
+
 
