@@ -219,7 +219,6 @@ I was suggested by the team that the current footprint didn't look natural as sn
 </table>
 *Footprint Textures/Sprites*
 
-
 <table border="0">
  <tr>
     <td><img src="https://aniketrajnish.github.io/me/files/AmbroseFPN.png" style="width:100%"></td>
