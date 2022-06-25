@@ -199,7 +199,7 @@ Further I was assigned the task to develop a snow-based footprint system over sn
 </table>
 *The images are sized properly, zoom in to see them clearly*
 
-### Final Output - 1st iteration
+### 1st Output
 <img src="https://aniketrajnish.github.io/me/files/FP1.gif" style="width:100%">
 
 ### Footprint Sprites - Final iteration
@@ -232,4 +232,8 @@ I was suggested by the team that the current footprint didn't look natural as sn
 *Footprint Normals*
 
 ### Footprint Material - Final iteration
+The footprint material was now modified to support normal information and the noraml map textures generated were assigned. <br><br>
+<img src="https://aniketrajnish.github.io/me/files/FPMat2.png" style="width:100%">
 
+### Final Output
+<img src="https://aniketrajnish.github.io/me/files/FP2.gif" style="width:100%">
